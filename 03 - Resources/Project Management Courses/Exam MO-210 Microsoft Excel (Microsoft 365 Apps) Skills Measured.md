@@ -1,0 +1,1 @@
+![[microsoft-certified-security-operations-analyst-skills-measured.pdf]]
