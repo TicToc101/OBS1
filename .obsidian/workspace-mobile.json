@@ -167,8 +167,12 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "8bce005013110040",
+  "active": "ec0c70451a0694a9",
   "lastOpenFiles": [
+    "02 - Areas/Notas1.md",
+    "/02 - Areas/Notas1.md",
+    "02 - Areas",
+    "/02 - Areas",
     "00 - Map of Concepts/Tag List.md",
     "00 - Map of Concepts/202510011411 - Resume information.md",
     "99 - Meta/README.md",
@@ -194,8 +198,6 @@
     "06 - Daily/July 2025/20250717.md",
     "06 - Daily/July 2025/20250716.md",
     "06 - Daily/July 2025/20250715.md",
-    "06 - Daily/July 2025/20250714.md",
-    "06 - Daily/July 2025/20250712.md",
     "03 - Resources/Project Management Courses/microsoft-certified-security-operations-analyst-skills-measured.pdf",
     "99 - Meta/Preloaded Classes",
     "99 - Meta/00 - Templates",
@@ -203,8 +205,6 @@
     "07 - Archive",
     "06 - Daily/July 2025",
     "06 - Daily/August 2025",
-    "06 - Daily",
-    "05 - Fleeting",
-    "04 - Permanent"
+    "06 - Daily"
   ]
 }

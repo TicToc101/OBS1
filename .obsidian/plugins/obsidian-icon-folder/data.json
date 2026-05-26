@@ -2,15 +2,19 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
-    "emojiStyle": "native",
+    "fontSize": 25,
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+<<<<<<< HEAD
 <<<<<<< HEAD
       "🍀",
       "LiMapPlus",
       "LiMapPin"
 =======
+=======
+      "LiProjector",
+>>>>>>> origin/main
       "🇩🇴"
 >>>>>>> origin/main
     ],
@@ -37,9 +41,14 @@
     "useInternalPlugins": false
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "00 - Map of Concepts": "LiMapPlus",
   "04 - Permanent": "🍀"
 =======
   "00 - Map of Concepts": "🇩🇴"
+>>>>>>> origin/main
+=======
+  "00 - Map of Concepts": "🇩🇴",
+  "01 - Projects": "LiProjector"
 >>>>>>> origin/main
 }
