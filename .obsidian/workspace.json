@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "y esta/primero en folder.md",
+                "file": "otra carpeta/sin archivo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "primero en folder"
+              "title": "sin archivo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "y esta/primero en folder.md",
+                "file": "otra carpeta/sin archivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for primero en folder"
+              "title": "Backlinks for sin archivo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "y esta/primero en folder.md",
+                "file": "otra carpeta/sin archivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from primero en folder"
+              "title": "Outgoing links from sin archivo"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "y esta/primero en folder.md",
+                "file": "otra carpeta/sin archivo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of primero en folder"
+              "title": "Outline of sin archivo"
             }
           }
         ]
@@ -184,11 +184,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6295db7a6b1cbeef",
+  "active": "1d6028efb05c7a5f",
   "lastOpenFiles": [
+    "y esta/primero en folder.md",
+    "otra carpeta/sin archivo.md",
     "otra carpeta",
     "primer.md",
-    "y esta/primero en folder.md",
     "y esta"
   ]
 }
