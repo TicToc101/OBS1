@@ -2,10 +2,11 @@
   "settings": {
     "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
-    "fontSize": 16,
-    "emojiStyle": "native",
+    "fontSize": 25,
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiProjector",
       "🇩🇴"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +31,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00 - Map of Concepts": "🇩🇴"
+  "00 - Map of Concepts": "🇩🇴",
+  "01 - Projects": "LiProjector"
 }
