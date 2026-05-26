@@ -11,10 +11,14 @@
             "id": "1d6028efb05c7a5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/Notas1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Notas1"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "1d6028efb05c7a5f",
   "lastOpenFiles": [
+    "02 - Areas/Notas1.md",
     "00 - Map of Concepts/Tag List.md",
     "00 - Map of Concepts/202510011411 - Resume information.md",
     "00 - Map of Concepts",
