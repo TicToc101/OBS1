@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-style-settings",
+  "obsidian-icon-folder"
 ]
