@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "9c61834f2db166f8",
+    "id": "e5baf0f6b6bfca90",
     "type": "split",
     "children": [
       {
-        "id": "c7f07213592d7a69",
+        "id": "b8f10ed503a8d0a3",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6028efb05c7a5f",
+            "id": "fac1716e4fbc1f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "otra carpeta/sin archivo.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sin archivo"
+              "title": "README"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "611caca0fa2d105c",
+    "id": "cef175fdf8e4560f",
     "type": "split",
     "children": [
       {
-        "id": "a1005f041f13e12d",
+        "id": "3f508b08ef413c1a",
         "type": "tabs",
         "children": [
           {
-            "id": "6295db7a6b1cbeef",
+            "id": "186e6eb29f614f9d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "dc709fd7dea0a372",
+            "id": "f08abb4a0d255eee",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "af2c342ae69809f1",
+            "id": "9bdaa96cfcd99397",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "cba860d41b114b91",
+    "id": "62ff2714513358d9",
     "type": "split",
     "children": [
       {
-        "id": "fbdbf3af5008c9bf",
+        "id": "43595f3e56e9c642",
         "type": "tabs",
         "children": [
           {
-            "id": "d0c34008c6897637",
+            "id": "61fd07d24f9e5bdc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "otra carpeta/sin archivo.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sin archivo"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "5459aebc6c8ae869",
+            "id": "af1cdd5c79632eb1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "otra carpeta/sin archivo.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sin archivo"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "31db9227fa62f144",
+            "id": "dbb4b5d84ddcd8d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +137,18 @@
             }
           },
           {
-            "id": "113630dbe3ce9da1",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "5c5865b7c7e5c3bb",
+            "id": "240c09a0a73e16bd",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "otra carpeta/sin archivo.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sin archivo"
+              "title": "Outline of README"
             }
           }
         ]
@@ -179,20 +165,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1d6028efb05c7a5f",
-  "lastOpenFiles": [
-    "00 - Map of Concepts/Tag List.md",
-    "00 - Map of Concepts/202510011411 - Resume information.md",
-    "00 - Map of Concepts",
-    "y esta/primero en folder.md",
-    "otra carpeta/sin archivo.md",
-    "otra carpeta",
-    "primer.md",
-    "y esta"
-  ]
+  "active": "186e6eb29f614f9d",
+  "lastOpenFiles": []
 }
