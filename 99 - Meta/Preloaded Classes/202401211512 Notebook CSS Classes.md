@@ -19,6 +19,6 @@ cssclasses:
   - embed-manila
   - page-grid
 ---
-<div style="background-color=black;color:white">
+<div style="background-color=black; color:white">
 <i>This page is only for keeping CSS classes ready for autocomplete.</i>
 </div>
