@@ -1,16 +1,3 @@
 [
-  "obsidian-git",
-<<<<<<< HEAD
-  "obsidian-style-settings",
-  "obsidian-icon-folder",
-  "templater-obsidian",
-  "calendar",
-  "dataview",
-  "homepage"
-=======
-  "templater-obsidian",
-  "dataview",
-  "obsidian-style-settings",
-  "obsidian-icon-folder"
->>>>>>> origin/main
+  "obsidian-git"
 ]
