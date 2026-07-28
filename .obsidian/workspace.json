@@ -200,9 +200,23 @@
               "icon": "lucide-file",
               "title": "Negocios - Parfait"
             }
+          },
+          {
+            "id": "0ed2159247c1b2ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -275,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Negocios - Parfait.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Negocios - Parfait"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -337,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Negocios - Parfait.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Negocios - Parfait"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -378,11 +392,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f5214af8d955286",
+  "active": "0ed2159247c1b2ff",
   "lastOpenFiles": [
+    "Negocios - Parfait.md",
+    "conflict-files-obsidian-git.md",
+    "Sin título.md",
+    "01 - Projects/Salud/Alimentacion/Untitled.md",
+    "01 - Projects/Salud/Alimentacion/Sitios que visitar.md",
+    "01 - Projects/Salud/Alimentacion/Nueva nota.md",
+    "01 - Projects/Salud/Alimentacion/Leer.md",
+    "01 - Projects/Salud/Alimentacion/Dail.md",
+    "01 - Projects/Salud/Alimentacion/202605252222 Quick note.md",
     "Negocios - Desayuno Americano.md",
     "Negocios - Desayuno Viveres.md",
-    "Negocios - Parfait.md",
     "Closet - Pantalones.md",
     "Closet Zapatos.md",
     "Closet - T shirts.md",
@@ -401,16 +423,8 @@
     "01 - Projects/Salud",
     "00 - Map of Concepts/202510011411 - Resume information.md",
     "01 - Projects/Credito",
-    "06 - Daily/2026/05/2026-05-25.md",
-    "conflict-files-obsidian-git.md",
-    "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
-    "99 - Meta/Preloaded Classes/202403091325 General Tweaks CSS Classes.md",
     "06 - Daily/2026/05",
     "06 - Daily/2026",
-    "06 - Daily/2026-05-25.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "00 - Map of Concepts",
     "otra carpeta",
     "y esta"
