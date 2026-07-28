@@ -12,8 +12,6 @@
 
 ### Tommy Hilfiger
 
-
-
 ## Navy
 
 ### Polo
