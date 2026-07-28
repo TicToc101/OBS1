@@ -202,17 +202,17 @@
             }
           },
           {
-            "id": "0ed2159247c1b2ff",
+            "id": "5ffc9c3e09496dee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Untitled"
             }
           }
         ],
@@ -289,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -351,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -392,11 +392,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0ed2159247c1b2ff",
+  "active": "5ffc9c3e09496dee",
   "lastOpenFiles": [
+    "Sin título.md",
+    "Untitled.md",
     "Negocios - Parfait.md",
     "conflict-files-obsidian-git.md",
-    "Sin título.md",
     "01 - Projects/Salud/Alimentacion/Untitled.md",
     "01 - Projects/Salud/Alimentacion/Sitios que visitar.md",
     "01 - Projects/Salud/Alimentacion/Nueva nota.md",
@@ -421,7 +422,6 @@
     "03 - Resources/Project Management Courses/Microsoft PM.md",
     "01 - Projects/Salud/Ejercicios/Lista de Deudas.md",
     "01 - Projects/Salud",
-    "00 - Map of Concepts/202510011411 - Resume information.md",
     "01 - Projects/Credito",
     "06 - Daily/2026/05",
     "06 - Daily/2026",
