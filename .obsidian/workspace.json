@@ -4,11 +4,163 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e03bf077ad4131ae",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "5e5c88523d86dc1b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "07 - Archive/Pasted image 20250708094053.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250708094053"
+            }
+          },
+          {
+            "id": "883dbb4f81877961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nutrition Guide From claudi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nutrition Guide From claudi"
+            }
+          },
+          {
+            "id": "9b17a264a3e32193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linfocitos - Lista de alimentos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linfocitos - Lista de alimentos"
+            }
+          },
+          {
+            "id": "11d19fbb055adce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plaquetas - Lista de aliementos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plaquetas - Lista de aliementos"
+            }
+          },
+          {
+            "id": "6da6cc109a9bb1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plaquetas - Lista de aliementos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plaquetas - Lista de aliementos"
+            }
+          },
+          {
+            "id": "4c2d002e1070283e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lista de cursos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lista de cursos"
+            }
+          },
+          {
+            "id": "8b2c02554a1a4aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closet - Camisas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closet - Camisas"
+            }
+          },
+          {
+            "id": "341630a2c54f2002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closet - Camisas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closet - Camisas"
+            }
+          },
+          {
+            "id": "11d6cacdc424a0c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closet - T shirts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closet - T shirts"
+            }
+          },
+          {
+            "id": "21c634db06ed78e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closet Zapatos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closet Zapatos"
+            }
+          },
+          {
+            "id": "9f97a94eb4c9a1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Closet - Pantalones.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closet - Pantalones"
+            }
+          },
+          {
+            "id": "280acbd332f8dcee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +174,49 @@
             }
           },
           {
-            "id": "bae830a766c1ce1e",
+            "id": "3222199cee076a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lanzamiento de productos.md",
+                "file": "Negocios - Desayuno Viveres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lanzamiento de productos"
+              "title": "Negocios - Desayuno Viveres"
+            }
+          },
+          {
+            "id": "7f5214af8d955286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Negocios - Parfait.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Negocios - Parfait"
+            }
+          },
+          {
+            "id": "5ffc9c3e09496dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -109,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Closet - Camisas.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Closet - Camisas"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -171,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Closet - Camisas.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Closet - Camisas"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -200,26 +380,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bae830a766c1ce1e",
+  "active": "5ffc9c3e09496dee",
   "lastOpenFiles": [
-    "Negocios - Parfait.md",
-    "Lanzamiento de productos.md",
-    "Closet - Camisas.md",
-    "Closet - T shirts.md",
-    "Closet - Polo Shirts.md",
-    "Closet - Pantalones.md",
-    "Untitled.md",
-    "Las vitaminas.md",
     "Sin título.md",
+    "Untitled.md",
+    "Negocios - Parfait.md",
     "conflict-files-obsidian-git.md",
     "01 - Projects/Salud/Alimentacion/Untitled.md",
     "01 - Projects/Salud/Alimentacion/Sitios que visitar.md",
@@ -229,7 +406,11 @@
     "01 - Projects/Salud/Alimentacion/202605252222 Quick note.md",
     "Negocios - Desayuno Americano.md",
     "Negocios - Desayuno Viveres.md",
+    "Closet - Pantalones.md",
     "Closet Zapatos.md",
+    "Closet - T shirts.md",
+    "Closet - Camisas.md",
+    "Closet - Polo Shirts.md",
     "Lista de cursos.md",
     "01 - Projects/Plaquetas - Lista de aliementos.md",
     "01 - Projects/Probioticos - Lista de alimentos.md",
@@ -238,6 +419,8 @@
     "01 - Projects/Short books.md",
     "202605252222 Quick note.md",
     "07 - Archive/Pasted image 20250708094053.png",
+    "03 - Resources/Project Management Courses/Microsoft PM.md",
+    "01 - Projects/Salud/Ejercicios/Lista de Deudas.md",
     "01 - Projects/Salud",
     "01 - Projects/Credito",
     "06 - Daily/2026/05",
