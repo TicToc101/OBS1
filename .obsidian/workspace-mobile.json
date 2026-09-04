@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "a312d11f8c623cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Alimentacion/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "61327fb1e0f519d7",
             "type": "leaf",
             "state": {
@@ -148,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -307,8 +293,8 @@
   },
   "active": "ee4e8b5314fb267d",
   "lastOpenFiles": [
-    "Daily expenses desde 1 sep.md",
     "Preguntarle a Diego.md",
+    "Daily expenses desde 1 sep.md",
     "06 - Daily/2026/08/2026-08-06.md",
     "Untitled.md",
     "06 - Daily/2026/08",
