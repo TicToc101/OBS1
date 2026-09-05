@@ -13,6 +13,13 @@
 610 bravo leche, avena y pitahaya
 110 uber vuelta
 Viernes 4
+500 grey
+100 peaje
+110 Dylan uber el chófer no termino el viaje casi 800
+100 peaje
+500 gas
+100 peaje
+
 
 
 

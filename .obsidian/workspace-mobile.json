@@ -272,8 +272,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -291,7 +291,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee4e8b5314fb267d",
+  "active": "84498f74721dcd2a",
   "lastOpenFiles": [
     "Preguntarle a Diego.md",
     "Daily expenses desde 1 sep.md",
