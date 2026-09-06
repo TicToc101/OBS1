@@ -19,6 +19,13 @@ Viernes 4
 100 peaje
 500 gas
 100 peaje
+235 comida pedido al colmado
+50 de pan 
+75 de pan
+150 botellon se deben 20 al colmado
+100 bollitos
+250 pica pollo
+
 
 
 

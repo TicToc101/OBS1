@@ -129,7 +129,8 @@
               "title": "Daily expenses desde 1 sep"
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -286,7 +287,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec0c70451a0694a9",
+  "active": "ee4e8b5314fb267d",
   "lastOpenFiles": [
     "Preguntarle a Diego.md",
     "Daily expenses desde 1 sep.md",
