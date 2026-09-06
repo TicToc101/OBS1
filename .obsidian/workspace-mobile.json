@@ -11,14 +11,10 @@
             "id": "ec0c70451a0694a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Alimentacion/202605031330 Bebidas fermentadas.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202605031330 Bebidas fermentadas"
+              "title": "New tab"
             }
           },
           {
@@ -133,8 +129,7 @@
               "title": "Daily expenses desde 1 sep"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,7 +286,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84498f74721dcd2a",
+  "active": "ec0c70451a0694a9",
   "lastOpenFiles": [
     "Preguntarle a Diego.md",
     "Daily expenses desde 1 sep.md",
