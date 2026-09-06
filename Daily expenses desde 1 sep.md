@@ -25,6 +25,10 @@ Viernes 4
 150 botellon se deben 20 al colmado
 100 bollitos
 250 pica pollo
+55 dylan le debo
+
+
+
 
 
 
