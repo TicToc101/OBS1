@@ -23,10 +23,15 @@ Viernes 4
 50 de pan 
 75 de pan
 150 botellon se deben 20 al colmado
+Dia 6
 100 bollitos
 250 pica pollo
 55 dylan le debo
-
+150 colmado
+60 azucar
+1550 mercajumbo
+Dia 7
+100 peaje
 
 
 
