@@ -33,6 +33,8 @@ Dia 6
 Dia 7
 100 peaje
 300 gas
+500 gas
+
 
 
 
