@@ -34,7 +34,11 @@ Dia 7
 100 peaje
 300 gas
 500 gas
+660 recipiente ikea
+Dia 8
 100 Dylan
+133 Bravo 
+
 
 
 
