@@ -34,6 +34,8 @@ Dia 7
 100 peaje
 300 gas
 500 gas
+100 Dylan
+
 
 
 
