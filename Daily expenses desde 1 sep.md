@@ -46,8 +46,7 @@ Dia 9
 
 Dia 10
 100 peaje
-
-
+125 empanadas y refreco
 
 
 
