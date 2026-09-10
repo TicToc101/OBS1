@@ -40,7 +40,12 @@ Dia 8
 133 Bravo 
 465 sopas chinas
 Dia 9
+100 peaje
+2161 gas 
+1910 compra
 
+Dia 10
+100 peaje
 
 
 
