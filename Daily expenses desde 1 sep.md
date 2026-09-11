@@ -36,7 +36,7 @@ Dia 7
 500 gas
 660 recipiente ikea
 Dia 8
-100 Dylan
+100 Dylan me lo devolvió 
 133 Bravo 
 465 sopas chinas
 Dia 9
@@ -48,8 +48,20 @@ Dia 10
 100 peaje
 125 empanadas y refreco
 347 huevos y papa 
+118 uber Dylan
+
+Dia 11
+100 peaje
+400 Gas 
+
+Dia 12
 
 
+Dia 13
+
+Dia 14
+
+Dia 15
 
 
 

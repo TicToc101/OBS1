@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2026/08/2026-08-06.md",
+                "file": "Lista de cursos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-08-06"
+              "title": "Lista de cursos"
             }
           },
           {
@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -301,17 +301,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee4e8b5314fb267d",
+  "active": "c634544a343609ca",
   "lastOpenFiles": [
+    "06 - Daily/Daily notes.md",
+    "06 - Daily/2026/08/2026-08-06.md",
+    "Daily expenses desde 1 sep.md",
     "Untitled.md",
     "Preguntarle a Diego.md",
     "Negocios - Desayuno Viveres.md",
     "Negocios - Parfait.md",
     "Ingresos y productos.md",
-    "Daily expenses desde 1 sep.md",
-    "06 - Daily/2026/08/2026-08-06.md",
     "06 - Daily/2026/08",
-    "Daily notes.md",
     "Las vitaminas.md",
     "/Untitled.md",
     "Closet - Camisas.md",
