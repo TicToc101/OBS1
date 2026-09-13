@@ -52,14 +52,14 @@ Dia 10
 
 Dia 11
 100 peaje
-400 Gas 
+
 
 Dia 12
 528 merca pollo, lechuga, tomate y pepino
 578 jabon dylan
 239 bravo agua tonica y limon
 130 cafes
-
+300 gas
 
 Dia 13
 
