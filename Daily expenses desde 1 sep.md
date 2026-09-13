@@ -55,6 +55,10 @@ Dia 11
 400 Gas 
 
 Dia 12
+528 merca pollo, lechuga, tomate y pepino
+578 jabon dylan
+239 bravo agua tonica y limon
+130 cafes
 
 
 Dia 13
