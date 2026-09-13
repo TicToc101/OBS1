@@ -52,7 +52,7 @@ Dia 10
 
 Dia 11
 100 peaje
-
+76 uber
 
 Dia 12
 528 merca pollo, lechuga, tomate y pepino
