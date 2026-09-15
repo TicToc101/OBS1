@@ -43,6 +43,7 @@ Dia 9
 100 peaje
 2161 gas 
 1910 compra
+118 bravo
 
 Dia 10
 100 peaje
@@ -62,9 +63,17 @@ Dia 12
 300 gas
 
 Dia 13
+1000 yenni
+100 Toalla Sanitaria
+200 Propinas
+
 
 Dia 14
-100
+100 Peaje
+95 uber dylan
+2175 libros Enzo
+
+
 Dia 15
 
 
