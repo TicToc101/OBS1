@@ -77,7 +77,16 @@ Dia 14
 Dia 15
 99 uber Dylan
 
+Dia 16
+75 Uber
 
+
+Dia 17
+164 uber ida
+91 uber vuelta
+75 stickers
+3566 edesur
+808 gas solgas
 
 
 
