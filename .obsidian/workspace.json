@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Notas1.md",
+                "file": "Daily expenses desde 1 sep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notas1"
+              "title": "Daily expenses desde 1 sep"
             }
           }
         ],
@@ -338,8 +338,8 @@
   },
   "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
-    "Daily expenses desde 1 sep.md",
     "02 - Areas/Notas1.md",
+    "Daily expenses desde 1 sep.md",
     "Untitled.canvas",
     "Untitled.base",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
