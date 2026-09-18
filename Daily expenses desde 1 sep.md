@@ -63,17 +63,6 @@ Dia 12
 300 gas
 
 Dia 13
-<<<<<<< HEAD
-200 propina
-
-Dia 14
-100 peaje
-Libros
-Uber
-100 Toallas sanitarias
-500 Germania
-
-Dia 13
 1000 yenni
 100 Toalla Sanitaria
 200 Propinas
@@ -96,21 +85,8 @@ Dia 17
 164 uber ida
 91 uber vuelta
 75 stickers
-3566 Edesur
+3566 edesur
 808 gas solgas
-431 Bravo leche condensada and yogurt
-419 Merca jumbo
-
-
-Dia 18
-Uber
-Dia 19
-
-Dia 20
-
-Dia 21
-Uber
-
 
 
 
