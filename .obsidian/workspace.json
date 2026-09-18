@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Preguntarle a Diego"
             }
+          },
+          {
+            "id": "89ace8a819cf60c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Fleeting/202508101406 - Review this note later on today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202508101406 - Review this note later on today"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -322,42 +336,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6295db7a6b1cbeef",
+  "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
-    "01 - Projects/Negocios e Ideas3333333344eeffrtggyhuiwwqwqwwe",
+    "04 - Permanent/202507170911 - leer esto cuando llegue a casa.md",
+    "04 - Permanent/202507080938 - Wildlands.md",
+    "04 - Permanent/202507071127 - Reflections of a day.md",
+    "03 - Resources/202508091855 Books.md",
+    "03 - Resources/Short books.md",
+    "03 - Resources/Cloud Roadmap - 202603010848.md",
+    "03 - Resources/Tools/Tools websites.md",
+    "03 - Resources/Cyber Folder Courses/IBM Cybersecurity Analyst Professional Certificate.md",
+    "03 - Resources/Cyber Folder Courses/Google Cybersecurity Professional Certificate (9-Course Series).md",
+    "03 - Resources/Cyber Folder Courses/Google Cloud Cybersecurity Professional Certificate.md",
     "Ingresos y productos.md",
+    "02 - Areas/Notas1.md",
+    "01 - Projects/Vestimenta",
+    "Untitled.md",
+    "Untitled",
+    "Preguntarle a Diego.md",
+    "01 - Projects/Negocios e Ideas",
     "Daily expenses desde 1 sep.md",
     "01 - Projects/Claude improved prompt.md",
     "Gemini.md",
     "gem 2.md",
     "02 - Areas/Lista de cursos.md",
-    "Untitled.md",
-    "01 - Projects/Closet - Camisas.md",
-    "01 - Projects/Closet - Polo Shirts.md",
-    "01 - Projects/Closet - Pantalones.md",
+    "01 - Projects/Vestimenta/Closet - Camisas.md",
+    "01 - Projects/Vestimenta/Closet - Polo Shirts.md",
+    "01 - Projects/Vestimenta/Closet - Pantalones.md",
     "conflict-files-obsidian-git.md",
-    "Preguntarle a Diego.md",
     "06 - Daily/Daily notes.md",
     "06 - Daily/2026/08/2026-08-06.md",
     "06 - Daily/2026/08",
     "Lanzamiento de productos.md",
-    "01 - Projects/Negocios - Parfait.md",
-    "01 - Projects/Closet - T shirts.md",
-    "01 - Projects/Salud/Las vitaminas.md",
-    "Sin título.md",
-    "01 - Projects/Salud/Alimentacion/Untitled.md",
-    "01 - Projects/Salud/Alimentacion/Sitios que visitar.md",
-    "01 - Projects/Salud/Alimentacion/Nueva nota.md",
-    "01 - Projects/Salud/Alimentacion/Leer.md",
-    "01 - Projects/Salud/Alimentacion/Dail.md",
-    "01 - Projects/Salud/Alimentacion/202605252222 Quick note.md",
     "07 - Archive/Pasted image 20250708094053.png",
     "01 - Projects/Salud",
     "01 - Projects/Credito",
     "06 - Daily/2026/05",
     "06 - Daily/2026",
     "00 - Map of Concepts",
-    "otra carpeta",
-    "y esta"
+    "otra carpeta"
   ]
 }

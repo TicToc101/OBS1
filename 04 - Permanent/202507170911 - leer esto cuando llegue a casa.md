@@ -8,11 +8,11 @@ tags:
 
 
 1. Why pay the price?
-2. Wgy work this ahrad
+2. Why work this hard?
 Why go this far
 Why tey to learn this much
 Why develop to full
-Why tey to become all that you can posibble become
+Why tey to become all that you can possible become
 
 Then work on your list of whys
 
