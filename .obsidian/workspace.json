@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Projects/Closet - Camisas.md",
+                "file": "gem 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closet - Camisas"
+              "title": "gem 2"
             }
           }
         ],
@@ -322,11 +322,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6295db7a6b1cbeef",
+  "active": "129ad9d5a3a5b0fc",
   "lastOpenFiles": [
+    "01 - Projects/Claude improved prompt.md",
+    "02 - Areas/Lista de cursos.md",
+    "Untitled.md",
+    "01 - Projects/Closet - Camisas.md",
     "01 - Projects/Closet - Polo Shirts.md",
     "01 - Projects/Closet - Pantalones.md",
-    "01 - Projects/Closet - Camisas.md",
     "Ingresos y productos.md",
     "Daily expenses desde 1 sep.md",
     "conflict-files-obsidian-git.md",
@@ -336,12 +339,10 @@
     "06 - Daily/2026/08/2026-08-06.md",
     "06 - Daily/2026/08",
     "Gemini.md",
-    "Claude improved prompt.md",
     "Lanzamiento de productos.md",
-    "Negocios - Parfait.md",
+    "01 - Projects/Negocios - Parfait.md",
     "01 - Projects/Closet - T shirts.md",
-    "Untitled.md",
-    "Las vitaminas.md",
+    "01 - Projects/Salud/Las vitaminas.md",
     "Sin título.md",
     "01 - Projects/Salud/Alimentacion/Untitled.md",
     "01 - Projects/Salud/Alimentacion/Sitios que visitar.md",
@@ -349,8 +350,7 @@
     "01 - Projects/Salud/Alimentacion/Leer.md",
     "01 - Projects/Salud/Alimentacion/Dail.md",
     "01 - Projects/Salud/Alimentacion/202605252222 Quick note.md",
-    "Negocios - Desayuno Americano.md",
-    "Negocios - Desayuno Viveres.md",
+    "01 - Projects/Negocios - Desayuno Americano.md",
     "07 - Archive/Pasted image 20250708094053.png",
     "01 - Projects/Salud",
     "01 - Projects/Credito",
