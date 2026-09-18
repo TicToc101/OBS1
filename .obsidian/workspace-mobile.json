@@ -124,23 +124,9 @@
               "icon": "lucide-file",
               "title": "Daily expenses desde 1 sep"
             }
-          },
-          {
-            "id": "7d89b793f27e1e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily expenses desde 1 sep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily expenses desde 1 sep"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -297,13 +283,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d89b793f27e1e95",
+  "active": "ee4e8b5314fb267d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Daily expenses desde 1 sep.md",
-    "Preguntarle a Diego.md",
-    "Untitled.canvas",
     "Untitled.base",
+    "Untitled.canvas",
+    "Daily expenses desde 1 sep.md",
+    "02 - Areas/Notas1.md",
+    "conflict-files-obsidian-git.md",
+    "Preguntarle a Diego.md",
     "01 - Projects/Vestimenta/Closet - Camisas.md",
     "01 - Projects/Vestimenta/Closet - Polo Shirts.md",
     "01 - Projects/Salud/Probioticos - Lista de alimentos.md",
@@ -330,9 +317,7 @@
     "06 - Daily/2026/08/2026-08-06.md",
     "Negocios - Desayuno Viveres.md",
     "Negocios - Parfait.md",
-    "Ingresos y productos.md",
     "06 - Daily/2026/08",
-    "Las vitaminas.md",
     "01 - Projects/Salud/Ejercicios",
     "01 - Projects/Salud/Alimentacion",
     "01 - Projects/Salud",
