@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily expenses desde 1 sep.md",
+                "file": "02 - Areas/Notas1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily expenses desde 1 sep"
+              "title": "Notas1"
             }
           }
         ],
@@ -338,6 +338,8 @@
   },
   "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
+    "Daily expenses desde 1 sep.md",
+    "02 - Areas/Notas1.md",
     "Untitled.canvas",
     "Untitled.base",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
@@ -352,13 +354,11 @@
     "03 - Resources/Cyber Folder Courses/Google Cybersecurity Professional Certificate (9-Course Series).md",
     "03 - Resources/Cyber Folder Courses/Google Cloud Cybersecurity Professional Certificate.md",
     "Ingresos y productos.md",
-    "02 - Areas/Notas1.md",
     "01 - Projects/Vestimenta",
     "Untitled.md",
     "Untitled",
     "Preguntarle a Diego.md",
     "01 - Projects/Negocios e Ideas",
-    "Daily expenses desde 1 sep.md",
     "01 - Projects/Claude improved prompt.md",
     "Gemini.md",
     "gem 2.md",
