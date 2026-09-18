@@ -43,6 +43,7 @@ Dia 9
 100 peaje
 2161 gas 
 1910 compra
+118 bravo
 
 Dia 10
 100 peaje
@@ -52,16 +53,17 @@ Dia 10
 
 Dia 11
 100 peaje
-400 Gas 
+76 uber
 
 Dia 12
 528 merca pollo, lechuga, tomate y pepino
 578 jabon dylan
 239 bravo agua tonica y limon
 130 cafes
-
+300 gas
 
 Dia 13
+<<<<<<< HEAD
 200 propina
 
 Dia 14
@@ -70,10 +72,32 @@ Libros
 Uber
 100 Toallas sanitarias
 500 Germania
+=======
+1000 yenni
+100 Toalla Sanitaria
+200 Propinas
+
+
+Dia 14
+100 Peaje
+95 uber dylan
+2175 libros Enzo
+
+>>>>>>> origin/main
 
 Dia 15
+99 uber Dylan
+
+Dia 16
+75 Uber
 
 
+Dia 17
+164 uber ida
+91 uber vuelta
+75 stickers
+3566 edesur
+808 gas solgas
 
 
 

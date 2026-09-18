@@ -104,9 +104,37 @@
               "icon": "lucide-file",
               "title": "Daily expenses desde 1 sep"
             }
+          },
+          {
+            "id": "825eb445e0231283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily expenses desde 1 sep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily expenses desde 1 sep"
+            }
+          },
+          {
+            "id": "45ba82088ed713bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -280,10 +308,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e1c49329aab5945",
+  "active": "45ba82088ed713bb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Daily expenses desde 1 sep.md",
+    "conflict-files-obsidian-git.md",
     "gem 2.md",
     "Preguntarle a Diego.md",
     "Ingresos y productos.md",
