@@ -72,7 +72,8 @@ Libros
 Uber
 100 Toallas sanitarias
 500 Germania
-=======
+
+Dia 13
 1000 yenni
 100 Toalla Sanitaria
 200 Propinas
@@ -83,7 +84,6 @@ Dia 14
 95 uber dylan
 2175 libros Enzo
 
->>>>>>> origin/main
 
 Dia 15
 99 uber Dylan
@@ -96,10 +96,10 @@ Dia 17
 164 uber ida
 91 uber vuelta
 75 stickers
-3566 edesur
+3566 Edesur
 808 gas solgas
-Bravo
-Merca
+431 Bravo leche condensada and yogurt
+419 Merca
 
 
 Dia 18
