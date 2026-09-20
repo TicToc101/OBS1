@@ -88,59 +88,8 @@ Dia 17
 3566 edesur
 808 gas solgas
 
-Dia 13
-<<<<<<< HEAD
-200 propina
-
-Dia 14
-100 peaje
-Libros
-Uber
-100 Toallas sanitarias
-500 Germania
-
-Dia 13
-1000 yenni
-100 Toalla Sanitaria
-200 Propinas
 
 
-Dia 14
-100 Peaje
-95 uber dylan
-2175 libros Enzo
-
-
-Dia 15
-99 uber Dylan
-
-Dia 16
-75 Uber
-
-
-Dia 17
-164 uber ida
-91 uber vuelta
-75 stickers
-3566 Edesur
-808 gas solgas
-431 Bravo leche condensada and yogurt
-419 Merca jumbo
-
-
-Dia 18
-Uber
-
-Dia 19
-
-Dia 20
-
-Dia 21
-Uber
-
-dia 22
-
-dia 23
 
 
 
