@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/IBM IT Scrum Master.md",
+                "file": "Clippings/Microsoft Power BI Data Analyst.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IBM IT Scrum Master"
+              "title": "Microsoft Power BI Data Analyst"
             }
           }
         ],
@@ -338,8 +338,9 @@
   },
   "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
-    "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
     "Clippings/IBM IT Scrum Master.md",
+    "Clippings/Microsoft Power BI Data Analyst.md",
+    "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "03 - Resources/Project Management Courses/Microsoft PM.md",
@@ -369,7 +370,6 @@
     "01 - Projects/Negocios e Ideas",
     "01 - Projects/Claude improved prompt.md",
     "Gemini.md",
-    "gem 2.md",
     "06 - Daily/2026/08",
     "07 - Archive/Pasted image 20250708094053.png",
     "01 - Projects/Salud",
