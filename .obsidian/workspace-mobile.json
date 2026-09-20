@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily expenses desde 1 sep.md",
+                "file": "Daily Expenses v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily expenses desde 1 sep"
+              "title": "Daily Expenses v2"
             }
           }
         ],
@@ -285,6 +285,8 @@
   },
   "active": "ee4e8b5314fb267d",
   "lastOpenFiles": [
+    "Daily expenses desde 1 sep.md",
+    "Daily Expenses v2.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
@@ -293,7 +295,6 @@
     "Clippings",
     "Untitled.base",
     "Untitled.canvas",
-    "Daily expenses desde 1 sep.md",
     "02 - Areas/Notas1.md",
     "conflict-files-obsidian-git.md",
     "Preguntarle a Diego.md",
@@ -318,7 +319,6 @@
     "/02 - Areas",
     "/01 - Projects",
     "Lista de cursos.md",
-    "Untitled.md",
     "06 - Daily/2026/08",
     "01 - Projects/Salud/Ejercicios",
     "01 - Projects/Salud/Alimentacion",
