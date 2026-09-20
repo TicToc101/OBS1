@@ -151,14 +151,15 @@
             "id": "89ace8a819cf60c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily expenses desde 1 sep.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Daily expenses desde 1 sep.md",
+                "bFile": "Daily expenses desde 1 sep.md",
+                "aRef": "9317e056ceb6676b712d7e21ce126d85ac958be1^",
+                "bRef": "9317e056ceb6676b712d7e21ce126d85ac958be1"
               },
-              "icon": "lucide-file",
-              "title": "Daily expenses desde 1 sep"
+              "icon": "diff",
+              "title": "Diff: Daily expenses desde 1 sep (9317e05)"
             }
           }
         ],
