@@ -87,14 +87,10 @@
             "id": "c634544a343609ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lista de cursos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lista de cursos"
+              "title": "New tab"
             }
           },
           {
@@ -285,15 +281,15 @@
   },
   "active": "ee4e8b5314fb267d",
   "lastOpenFiles": [
-    "Daily expenses desde 1 sep.md",
+    "Untitled.base",
     "Daily Expenses v2.md",
+    "Daily expenses desde 1 sep.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
     "Clippings/Microsoft Power BI Data Analyst.md",
     "Clippings/IBM IT Scrum Master.md",
     "Clippings",
-    "Untitled.base",
     "Untitled.canvas",
     "02 - Areas/Notas1.md",
     "conflict-files-obsidian-git.md",
@@ -318,7 +314,6 @@
     "/03 - Resources",
     "/02 - Areas",
     "/01 - Projects",
-    "Lista de cursos.md",
     "06 - Daily/2026/08",
     "01 - Projects/Salud/Ejercicios",
     "01 - Projects/Salud/Alimentacion",
