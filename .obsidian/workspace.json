@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
+                "file": "Clippings/IBM IT Scrum Master.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scrum Master (PSM I) Certification Preparation 2"
+              "title": "IBM IT Scrum Master"
             }
           }
         ],
@@ -338,8 +338,9 @@
   },
   "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
-    "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
+    "Clippings/IBM IT Scrum Master.md",
+    "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "03 - Resources/Project Management Courses/Microsoft PM.md",
     "03 - Resources/Project Management Courses/PM Google.md",
@@ -369,7 +370,6 @@
     "01 - Projects/Claude improved prompt.md",
     "Gemini.md",
     "gem 2.md",
-    "02 - Areas/Lista de cursos.md",
     "06 - Daily/2026/08",
     "07 - Archive/Pasted image 20250708094053.png",
     "01 - Projects/Salud",
