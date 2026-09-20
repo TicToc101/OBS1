@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily expenses desde 1 sep.md",
+                "file": "03 - Resources/Project Management Courses/Microsoft PM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily expenses desde 1 sep"
+              "title": "Microsoft PM"
             }
           }
         ],
@@ -338,8 +338,12 @@
   },
   "active": "89ace8a819cf60c4",
   "lastOpenFiles": [
-    "02 - Areas/Notas1.md",
+    "03 - Resources/Project Management Courses/PM Google.md",
+    "03 - Resources/Project Management Courses/microsoft-certified-security-operations-analyst-skills-measured.pdf",
+    "03 - Resources/Project Management Courses/Microsoft PM.md",
+    "03 - Resources/Project Management Courses/Exam MO-210 Microsoft Excel (Microsoft 365 Apps) Skills Measured.md",
     "Daily expenses desde 1 sep.md",
+    "02 - Areas/Notas1.md",
     "Untitled.canvas",
     "Untitled.base",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
@@ -366,14 +370,11 @@
     "01 - Projects/Vestimenta/Closet - Camisas.md",
     "01 - Projects/Vestimenta/Closet - Polo Shirts.md",
     "01 - Projects/Vestimenta/Closet - Pantalones.md",
-    "conflict-files-obsidian-git.md",
-    "06 - Daily/Daily notes.md",
     "06 - Daily/2026/08",
     "07 - Archive/Pasted image 20250708094053.png",
     "01 - Projects/Salud",
     "01 - Projects/Credito",
     "06 - Daily/2026/05",
-    "06 - Daily/2026",
-    "00 - Map of Concepts"
+    "06 - Daily/2026"
   ]
 }
