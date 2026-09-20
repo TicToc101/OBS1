@@ -5,7 +5,7 @@
 
 [[Exam MO-210 Microsoft Excel (Microsoft 365 Apps) Skills Measured]]
 
->[[https://www.youtube.com/watch?v=7QJ4TUI6ITw&list=PLTsRyXK9t9yYj254YuXZUx3miJKOsAwcv|Curso Youtube para la certificacion]]
+[[https://www.youtube.com/watch?v=7QJ4TUI6ITw&list=PLTsRyXK9t9yYj254YuXZUx3miJKOsAwcv|Curso Youtube para la certificacion]]
 
 | **Course #** | **Title**                                            | **Duration** | Status |
 | ------------ | ---------------------------------------------------- | ------------ | ------ |
