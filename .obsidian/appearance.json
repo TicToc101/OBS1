@@ -1,4 +1,5 @@
 {
   "cssTheme": "AnuPpuccin",
-  "accentColor": "#00ff00"
+  "accentColor": "#00ff00",
+  "theme": "system"
 }
