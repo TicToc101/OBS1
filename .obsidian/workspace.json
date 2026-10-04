@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cba860d41b114b91",
@@ -203,7 +204,8 @@
       "templates:Insert template": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "cd3d5070aa3c4854",
