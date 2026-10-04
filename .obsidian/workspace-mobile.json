@@ -255,13 +255,13 @@
         }
       },
       {
-        "id": "84498f74721dcd2a",
+        "id": "e530a28d7172ab90",
         "type": "leaf",
         "state": {
-          "type": "git-view",
+          "type": "calendar",
           "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
@@ -276,7 +276,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ee4e8b5314fb267d",
