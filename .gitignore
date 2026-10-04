@@ -1,0 +1,19 @@
+# Sync Obsidian config and customizations
+.obsidian/*
+!.obsidian/
+!.obsidian/*.json
+!.obsidian/themes/
+!.obsidian/themes/**
+!.obsidian/plugins/
+!.obsidian/plugins/**
+!.obsidian/snippets/
+!.obsidian/snippets/**
+
+# Common local OS/file noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp/swap files
+*.swp
+*.tmp
