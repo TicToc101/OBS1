@@ -1,9 +1,9 @@
 [
-  "obsidian-git",
-  "calendar",
-  "dataview",
-  "homepage",
   "obsidian-icon-folder",
   "obsidian-style-settings",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar",
+  "dataview",
+  "obsidian-git",
+  "homepage"
 ]
