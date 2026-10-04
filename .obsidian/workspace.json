@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/20250920.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "20250920"
             }
           }
         ]
@@ -162,16 +166,6 @@
             }
           },
           {
-            "id": "85fc0c88341217b0",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
             "id": "e8f5b022cc263017",
             "type": "leaf",
             "state": {
@@ -179,6 +173,28 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "git-history-view"
+            }
+          },
+          {
+            "id": "a7ee0bd6aa9b5f9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "06 - Daily/20250920.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 20250920"
+            }
+          },
+          {
+            "id": "43f6cc69c2664583",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -191,7 +207,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
@@ -199,25 +214,29 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "iconic:Open rulebook": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Daily/Daily notes.md",
+    "06 - Daily/20250924.md",
+    "06 - Daily/20250920.md",
+    "Daily expenses oct.md",
     "Daily expenses desde 1 sep.md",
+    "Untitled.base",
+    "Estudios 1.md",
     "Ingresos y productos.md",
     "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md",
     "Excalidraw",
     "06 - Daily/2026/10/2026-10-04.md",
     "06 - Daily/2026/10",
-    "Daily expenses oct.md",
     "test.gitignore",
     "Daily Expenses v2.md",
     "Preguntarle a Diego.md",
     "nutrition_guide.md",
-    "Estudios 1.md",
-    "Untitled.base",
     "Untitled.canvas",
     "Clippings/Microsoft Power BI Data Analyst.md",
     "Clippings/IBM IT Scrum Master.md",
@@ -234,9 +253,6 @@
     "04 - Permanent/202507080938 - Wildlands.md",
     "04 - Permanent/202507071127 - Reflections of a day.md",
     "03 - Resources/202508091855 Books.md",
-    "03 - Resources/Short books.md",
-    "03 - Resources/Cloud Roadmap - 202603010848.md",
-    "03 - Resources/Tools/Tools websites.md",
     "01 - Projects/Vestimenta",
     "Untitled",
     "01 - Projects/Negocios e Ideas",
