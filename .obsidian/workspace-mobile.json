@@ -255,16 +255,6 @@
         }
       },
       {
-        "id": "84498f74721dcd2a",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
-      },
-      {
         "id": "e530a28d7172ab90",
         "type": "leaf",
         "state": {
