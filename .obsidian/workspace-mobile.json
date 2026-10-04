@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily expenses oct.md",
+                "file": "Ingresos y productos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily expenses oct"
+              "title": "Ingresos y productos"
+            }
+          },
+          {
+            "id": "9392f7e88a443533",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-10-04 16.14.03.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,14 +204,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "9392f7e88a443533",
   "lastOpenFiles": [
-    "06 - Daily/2026/10/2026-10-04.md",
-    "06 - Daily/2026/10",
-    "Daily expenses oct.md",
-    "Daily Expenses v2.md",
+    "Ingresos y productos.md",
+    "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md",
+    "Excalidraw",
     "nutrition_guide.md",
     "Estudios 1.md",
+    "Daily expenses oct.md",
+    "06 - Daily/2026/10/2026-10-04.md",
+    "06 - Daily/2026/10",
+    "Daily Expenses v2.md",
     "/03 - Resources/Project Management Courses",
     "/03 - Resources",
     "Untitled.base",
@@ -223,13 +239,10 @@
     "01 - Projects/Negocios e Ideas/Negocios - Desayuno Viveres.md",
     "01 - Projects/Negocios e Ideas/Negocios - Desayuno Americano.md",
     "02 - Areas/Lista de cursos.md",
-    "01 - Projects/Vestimenta/Closet Zapatos.md",
-    "01 - Projects/Vestimenta/Closet - T shirts.md",
     "01 - Projects/Vestimenta",
     "01 - Projects/Negocios e Ideas",
     "/02 - Areas",
     "/01 - Projects",
-    "06 - Daily/2026/08",
     "07 - Archive/Pasted image 20250708094053.png"
   ]
 }
