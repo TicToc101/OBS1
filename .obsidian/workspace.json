@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cba860d41b114b91",
@@ -206,6 +205,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md",
+    "Excalidraw",
     "06 - Daily/2026/10/2026-10-04.md",
     "06 - Daily/2026/10",
     "Daily expenses oct.md",
@@ -236,13 +237,11 @@
     "03 - Resources/Short books.md",
     "03 - Resources/Cloud Roadmap - 202603010848.md",
     "03 - Resources/Tools/Tools websites.md",
-    "03 - Resources/Cyber Folder Courses/IBM Cybersecurity Analyst Professional Certificate.md",
     "01 - Projects/Vestimenta",
     "Untitled",
     "01 - Projects/Negocios e Ideas",
     "06 - Daily/2026/08",
     "07 - Archive/Pasted image 20250708094053.png",
-    "01 - Projects/Salud",
-    "01 - Projects/Credito"
+    "01 - Projects/Salud"
   ]
 }
