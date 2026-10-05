@@ -19,4 +19,4 @@ cssclasses: [daily, {{date:dddd}}]
 
 
 
-#Daily #DailyNotes 
+ #DailyNotes 

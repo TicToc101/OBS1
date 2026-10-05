@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Map of Concepts/Tag List.md",
+                "file": "99 - Meta/00 - Templates/Cornell Notes Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tag List"
+              "title": "Cornell Notes Template"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DailyNotes",
+                "query": "tag:#Daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -225,10 +225,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
+    "99 - Meta/00 - Templates/Flash card template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "00 - Map of Concepts/Tag List.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "Clippings/Microsoft Power BI Data Analyst.md",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
     "Clippings/IBM IT Scrum Master.md",
@@ -255,8 +257,6 @@
     "03 - Resources/Project Management Courses/Microsoft PM.md",
     "03 - Resources/Project Management Courses/PM Google.md",
     "03 - Resources/Project Management Courses/microsoft-certified-security-operations-analyst-skills-measured.pdf",
-    "03 - Resources/Project Management Courses/Exam MO-210 Microsoft Excel (Microsoft 365 Apps) Skills Measured.md",
-    "02 - Areas/Notas1.md",
     "01 - Projects/Vestimenta",
     "Untitled",
     "01 - Projects/Negocios e Ideas",

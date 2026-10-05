@@ -1,7 +1,6 @@
 ---
 date: <%tp.date.now("YYYY-MM-DD")%>T<%tp.date.now("HH:mm")%>
 tags:
-  - Daily
   - DailyNotes
   - Journal
 cssclasses:
@@ -12,17 +11,14 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
 ***
 ### Journal
-#### TIME
+#### Morning Brain Dump
 - 
 - 
-#### Today(BOD)
-- 
-- 
-- 
-#### Reflexion of the day(EOD)
+#### Today
 - 
 - 
 - 
+
 
 ***
 ### Tasks For the Day
@@ -40,14 +36,9 @@ cssclasses:
 -
 -
 -
+#### Evening Brain Dump 
+- 
+- 
+- 
 
-### Tasks For Tomorrow
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-
-#Daily #DailyNotes 
+#DailyNotes 
