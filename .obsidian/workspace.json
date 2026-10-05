@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "793271b59870f36b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "b24fe32a3b622ac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2026/10/2026-10-05.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-05"
+              "title": "(TEMPLATE) Daily1"
             }
           }
         ]
@@ -233,22 +233,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b24fe32a3b622ac4",
   "lastOpenFiles": [
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
-    "06 - Daily/2026/10/2026-10-05.md",
-    "06 - Daily/20250924.md",
-    "06 - Daily/Daily notes.md",
-    "Untitled.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "06 - Daily/2026/10/2026-10-05.md",
+    "Untitled.md",
+    "cornell notes - 202610051036.md",
+    "06 - Daily/2026/20250924.md",
+    "06 - Daily/2026/Daily notes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "Wednesday 7th, October, 2026.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
     "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "Tuesday 6th, October, 2026.md",
     "Monday 5th, October, 2026.md",
-    "cornell notes - 202610051036.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
     "Daily expenses desde 1 sep.md",
     "Friday 9th, October, 2026.md",
