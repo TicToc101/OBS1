@@ -11,16 +11,6 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "03709034cc058ec9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "06 - Daily/2026/10/2026-10-05.md",
@@ -31,8 +21,7 @@
               "title": "2026-10-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,13 +233,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "03709034cc058ec9",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
+    "06 - Daily/2026/10/2026-10-05.md",
     "06 - Daily/20250924.md",
     "06 - Daily/Daily notes.md",
-    "06 - Daily/2026/10/2026-10-05.md",
     "Untitled.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
