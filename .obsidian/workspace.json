@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/Zettelkasten Template.md",
+                "file": "99 - Meta/00 - Templates/Cornell Notes Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten Template"
+              "title": "Cornell Notes Template"
             }
           }
         ],
@@ -264,9 +264,9 @@
   },
   "active": "cd9874a5561b4d2c",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
     "cornell notes - 202610051036.md",
-    "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
     "Daily expenses desde 1 sep.md",
     "Friday 9th, October, 2026.md",
