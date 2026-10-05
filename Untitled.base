@@ -19,5 +19,9 @@ views:
         - file.hasTag("DailyNotes", "Daily")
     order:
       - file.name
-      - file.basename
-    sort: []
+      - file.folder
+      - date
+      - file.links
+    sort:
+      - property: file.ctime
+        direction: DESC
