@@ -27,11 +27,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Dail Notes"
+                "file": "00 - Map of Concepts/Notes Database.base",
+                "viewName": "Clipping notes"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Notes Database"
             }
           }
         ],
@@ -240,7 +240,7 @@
   "active": "523b668c92715181",
   "lastOpenFiles": [
     "Untitled.md",
-    "Untitled.base",
+    "00 - Map of Concepts/Notes Database.base",
     "00 - Map of Concepts/Tag List.md",
     "Clippings/Microsoft Power BI Data Analyst.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
