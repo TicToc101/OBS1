@@ -8,7 +8,7 @@ Para ver una lista detalladas del total de Tags vaya [[Tag List#Tags List Count|
 |      | #Leer       | Informacion para leer ya sea articulos o libros                 |
 |      | #Investigar | Investigar sobre algo nuevo                                     |
 |      | #Videos     |                                                                 |
-|      | #Daily      | Este Tags se utiliza para las notas diarias                     |
+|      | #DailyNotes | Este Tags se utiliza para las notas diarias                     |
 |      | #Unique     | Este se utiliza para notas unicas que no tengan ningun otro tag |
 |      | #Weekly     | Este Tags se utiliza para las notas Semanales                   |
 |      | #Monthly    | Notas Mensuales                                                 |
