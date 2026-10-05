@@ -67,7 +67,23 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
-  "ribbonIcons": {},
+  "ribbonIcons": {
+    "command-palette:Open command palette": {
+      "icon": "💻"
+    },
+    "daily-notes:Open today's daily note": {
+      "icon": "📆"
+    },
+    "graph:Open graph view": {
+      "icon": "📊"
+    },
+    "homepage:Open homepage": {
+      "icon": "🏠"
+    },
+    "switcher:Open quick switcher": {
+      "icon": "🔎"
+    }
+  },
   "fileRules": [],
   "folderRules": []
 }
