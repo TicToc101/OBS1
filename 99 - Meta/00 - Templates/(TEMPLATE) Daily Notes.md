@@ -30,15 +30,15 @@ cssclasses:
 - [ ] 
 
 
-
-### Links To Other Notes and Content
-
--
--
--
 #### Evening Brain Dump 
 - 
 - 
 - 
+#### Links To Other Notes and Content
+
+-
+-
+-
+
 
 #DailyNotes 
