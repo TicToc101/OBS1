@@ -12,3 +12,12 @@ views:
       - author
       - created
       - Source
+  - type: table
+    name: Dail Notes
+    filters:
+      and:
+        - file.hasTag("DailyNotes", "Daily")
+    order:
+      - file.name
+      - file.basename
+    sort: []
