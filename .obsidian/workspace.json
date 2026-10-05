@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2026/10/2026-10-05.md",
+                "file": "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-05"
+              "title": "Zettelkasten Note Template"
             }
           }
         ],
@@ -305,8 +305,8 @@
   },
   "active": "6fc5b83f95331f61",
   "lastOpenFiles": [
-    "20261005_1015 note de prueba.md",
     "06 - Daily/2026/10/2026-10-05.md",
+    "20261005_1015 note de prueba.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
     "202610051009 Dia 3 Estudiando Redes.md",
     "202610051008 Untitled 1.md",
