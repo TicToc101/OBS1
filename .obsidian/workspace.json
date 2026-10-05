@@ -13,15 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/Cornell Notes Template.md",
+                "file": "00 - Map of Concepts/Tag List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cornell Notes Template"
+              "title": "Tag List"
+            }
+          },
+          {
+            "id": "523b668c92715181",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Clipping notes"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,15 +237,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "523b668c92715181",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.base",
+    "00 - Map of Concepts/Tag List.md",
+    "Clippings/Microsoft Power BI Data Analyst.md",
+    "99 - Meta/00 - Templates/Cornell Notes Template.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
     "99 - Meta/00 - Templates/Flash card template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "00 - Map of Concepts/Tag List.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
-    "Clippings/Microsoft Power BI Data Analyst.md",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
     "Clippings/IBM IT Scrum Master.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
@@ -243,19 +260,15 @@
     "Daily Expenses v2.md",
     "nutrition_guide.md",
     "Preguntarle a Diego.md",
-    "Untitled.base",
     "Daily expenses oct.md",
     "Daily expenses desde 1 sep.md",
     "06 - Daily/20250920.md",
     "06 - Daily/Daily notes.md",
     "06 - Daily/20250924.md",
     "Excalidraw",
-    "06 - Daily/2026/10/2026-10-04.md",
     "06 - Daily/2026/10",
     "test.gitignore",
     "Untitled.canvas",
-    "03 - Resources/Project Management Courses/Microsoft PM.md",
-    "03 - Resources/Project Management Courses/PM Google.md",
     "03 - Resources/Project Management Courses/microsoft-certified-security-operations-analyst-skills-measured.pdf",
     "01 - Projects/Vestimenta",
     "Untitled",

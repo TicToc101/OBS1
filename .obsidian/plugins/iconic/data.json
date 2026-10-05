@@ -23,12 +23,47 @@
   "maxBackups": 2,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "00 - Map of Concepts": {
+      "icon": "🗺️"
+    },
+    "01 - Projects": {
+      "icon": "🌎"
+    },
+    "02 - Areas": {
+      "icon": "🎡"
+    },
+    "03 - Resources": {
+      "icon": "👨‍💻"
+    },
+    "04 - Permanent": {
+      "icon": "⌛"
+    },
+    "05 - Fleeting": {
+      "icon": "⏱️"
+    },
+    "06 - Daily": {
+      "icon": "🌞"
+    },
+    "07 - Archive": {
+      "icon": "📁"
+    },
+    "99 - Meta": {
+      "icon": "🪤"
+    },
+    "Clippings": {
+      "icon": "📷",
+      "color": "cyan"
+    },
+    "Excalidraw": {
+      "icon": "🎨"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

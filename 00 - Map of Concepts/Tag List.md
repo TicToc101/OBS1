@@ -12,21 +12,17 @@ Para ver una lista detalladas del total de Tags vaya [[Tag List#Tags List Count|
 |      | #Unique     | Este se utiliza para notas unicas que no tengan ningun otro tag |
 |      | #Weekly     | Este Tags se utiliza para las notas Semanales                   |
 |      | #Monthly    | Notas Mensuales                                                 |
-|      | #BookNotes  |                                                                 |
+|      | #BookNotes  | Notes from the books That im reading                            |
+|      | #clippings  | Web Clippings Notes                                             |
 
 
-### Study Project Management
 
-| Type       | Name               | Purpose                                           |
-| ---------- | ------------------ | ------------------------------------------------- |
-| Salesforce | #ProjectManagement | Identificar el contenido relacionado a Salesforce |
-|            | #PmNotes           |                                                   |
 ### Study 
 
 | Type       | Name                                    | Purpose                                         |
 | ---------- | --------------------------------------- | ----------------------------------------------- |
 | Flashcards | #ProjectManagementReview<br>#Flashcards | Este tag es usado para identificar flashcardads |
-|            | #ProjectManagementReview                |                                                 |
+|            |                                         |                                                 |
 |            |                                         |                                                 |
 |            |                                         |                                                 |
 |            |                                         |                                                 |

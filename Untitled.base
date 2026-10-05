@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Clipping notes
+    filters:
+      and:
+        - file.hasTag("clippings")
+    order:
+      - file.name
+      - file.folder
+      - author
+      - created
+      - Source
