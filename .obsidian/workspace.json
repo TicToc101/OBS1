@@ -25,13 +25,14 @@
             "id": "523b668c92715181",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "00 - Map of Concepts/Notes Database.base",
-                "viewName": "Clipping notes"
+                "file": "06 - Daily/July 2025/20250726.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Notes Database"
+              "icon": "lucide-file",
+              "title": "20250726"
             }
           }
         ],
@@ -239,8 +240,9 @@
   },
   "active": "523b668c92715181",
   "lastOpenFiles": [
-    "Untitled.md",
+    "202610051003.md",
     "00 - Map of Concepts/Notes Database.base",
+    "Untitled.md",
     "00 - Map of Concepts/Tag List.md",
     "Clippings/Microsoft Power BI Data Analyst.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
@@ -264,7 +266,6 @@
     "Daily expenses desde 1 sep.md",
     "06 - Daily/20250920.md",
     "06 - Daily/Daily notes.md",
-    "06 - Daily/20250924.md",
     "Excalidraw",
     "06 - Daily/2026/10",
     "test.gitignore",
