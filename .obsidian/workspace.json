@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "793271b59870f36b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "b24fe32a3b622ac4",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "(TEMPLATE) Daily1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -233,8 +229,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b24fe32a3b622ac4",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/2026/10/2026-10-05.md",
@@ -242,7 +239,6 @@
     "cornell notes - 202610051036.md",
     "06 - Daily/2026/20250924.md",
     "06 - Daily/2026/Daily notes.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "Wednesday 7th, October, 2026.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
