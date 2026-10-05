@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026_10_05_1019 Nota de prueba.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026_10_05_1019 Nota de prueba"
+              "title": "(TEMPLATE) Unique"
             }
           }
         ],
@@ -305,8 +305,12 @@
   },
   "active": "2735500ee2e7be47",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "2026_10_05_1019 Nota de prueba.md",
+    "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
     "20261005_1015 note de prueba.md",
     "Untitled 1 - 202610051008.md",
     "06 - Daily/2026/10/2026-10-05.md",
@@ -320,7 +324,6 @@
     "06 - Daily/July 2025/20250709.md",
     "01 - Projects/Salud/Plaquetas - Lista de aliementos.md",
     "06 - Daily/July 2025/20250705.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily.md",
     "01 - Projects/Salud/Linfocitos - Lista de alimentos.md",
     "06 - Daily/2026/08/2026-08-06.md",
     "Clippings/Microsoft Power BI Data Analyst.md",
@@ -328,10 +331,7 @@
     "00 - Map of Concepts/Notes Database.base",
     "00 - Map of Concepts/Tag List.md",
     "99 - Meta/00 - Templates/Flash card template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
-    "Clippings/IBM IT Scrum Master.md",
     "Excalidraw",
     "06 - Daily/2026/10",
     "test.gitignore",
