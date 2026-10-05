@@ -36,20 +36,6 @@
             }
           },
           {
-            "id": "6aaa9f8ab354ccb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1 - 202610051008.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1 - 202610051008"
-            }
-          },
-          {
             "id": "1e554efa4d84b90c",
             "type": "leaf",
             "state": {
@@ -89,6 +75,20 @@
               },
               "icon": "lucide-file",
               "title": "Zettelkasten Note Template"
+            }
+          },
+          {
+            "id": "2735500ee2e7be47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026_10_05_1019 Nota de prueba.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026_10_05_1019 Nota de prueba"
             }
           }
         ],
@@ -303,14 +303,15 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6fc5b83f95331f61",
+  "active": "2735500ee2e7be47",
   "lastOpenFiles": [
-    "06 - Daily/2026/10/2026-10-05.md",
-    "20261005_1015 note de prueba.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template.md",
+    "2026_10_05_1019 Nota de prueba.md",
+    "20261005_1015 note de prueba.md",
+    "Untitled 1 - 202610051008.md",
+    "06 - Daily/2026/10/2026-10-05.md",
     "202610051009 Dia 3 Estudiando Redes.md",
     "202610051008 Untitled 1.md",
-    "Untitled 1 - 202610051008.md",
     "202610051003.md",
     "99 - Meta/00 - Templates/Cornell Notes Template.md",
     "Daily expenses oct.md",
@@ -325,7 +326,6 @@
     "Clippings/Microsoft Power BI Data Analyst.md",
     "06 - Daily/July 2025/20250726.md",
     "00 - Map of Concepts/Notes Database.base",
-    "Untitled.md",
     "00 - Map of Concepts/Tag List.md",
     "99 - Meta/00 - Templates/Flash card template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
