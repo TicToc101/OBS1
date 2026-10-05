@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingresos y productos.md",
+                "file": "06 - Daily/2026/10/2026-10-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ingresos y productos"
-            }
-          },
-          {
-            "id": "9392f7e88a443533",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-04 16.14.03.excalidraw"
+              "title": "2026-10-04"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "iconic:Open rulebook": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,15 +187,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9392f7e88a443533",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Ingresos y productos.md",
     "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md",
+    "Ingresos y productos.md",
     "Excalidraw",
     "nutrition_guide.md",
     "Estudios 1.md",
