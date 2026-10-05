@@ -1,6 +1,7 @@
 ---
 date: {{date}}T{{time}}
 tags: [NotaRapida]
+topic:  
 ---
 
 
