@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a2c22ef9691d35",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "26a3a2a5315939a7",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -174,6 +174,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
       "iconic:Open rulebook": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -187,17 +191,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "26a3a2a5315939a7",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "06 - Daily/2026-10-06.md",
+    "06 - Daily/2026-10-05.md",
     "06 - Daily/2026/20250924.md",
+    "06 - Daily/July 2025/20250704.md",
+    "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
     "06 - Daily/2026/20250920.md",
     "06 - Daily/2026/10/2026-10-05.md",
     "06 - Daily/2026/10/05.md",
     "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
-    "Untitled.md",
-    "06 - Daily/2026-10-05.md",
     "06 - Daily/2026/Daily notes.md",
     "00 - Map of Concepts/Notes Database.base",
     "06 - Daily/2026/10/2026-10-04.md",
@@ -216,13 +225,8 @@
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
-    "Clippings/Microsoft Power BI Data Analyst.md",
-    "Clippings/IBM IT Scrum Master.md",
     "Clippings",
     "Untitled.canvas",
-    "02 - Areas/Notas1.md",
-    "conflict-files-obsidian-git.md",
-    "Preguntarle a Diego.md",
     "01 - Projects/Vestimenta",
     "01 - Projects/Negocios e Ideas",
     "/02 - Areas",
