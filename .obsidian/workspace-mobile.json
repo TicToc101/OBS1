@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "c0a2c22ef9691d35",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "26a3a2a5315939a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/2026/10/2026-10-04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-10-04"
+              "title": "New tab"
             }
           }
         ]
@@ -191,15 +187,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "26a3a2a5315939a7",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
+    "06 - Daily/2026/20250924.md",
+    "06 - Daily/2026/20250920.md",
+    "06 - Daily/2026/10/2026-10-05.md",
+    "06 - Daily/2026/10/05.md",
+    "99 - Meta/00 - Templates/Zettelkasten Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
+    "Untitled.md",
+    "06 - Daily/2026-10-05.md",
+    "06 - Daily/2026/Daily notes.md",
+    "00 - Map of Concepts/Notes Database.base",
+    "06 - Daily/2026/10/2026-10-04.md",
     "Excalidraw/Drawing 2026-10-04 16.14.03.excalidraw.md",
     "Ingresos y productos.md",
     "Excalidraw",
     "nutrition_guide.md",
     "Estudios 1.md",
     "Daily expenses oct.md",
-    "06 - Daily/2026/10/2026-10-04.md",
     "06 - Daily/2026/10",
     "Daily Expenses v2.md",
     "/03 - Resources/Project Management Courses",
@@ -216,20 +223,9 @@
     "02 - Areas/Notas1.md",
     "conflict-files-obsidian-git.md",
     "Preguntarle a Diego.md",
-    "01 - Projects/Vestimenta/Closet - Camisas.md",
-    "01 - Projects/Vestimenta/Closet - Polo Shirts.md",
-    "01 - Projects/Salud/Probioticos - Lista de alimentos.md",
-    "01 - Projects/Salud/Plaquetas - Lista de aliementos.md",
-    "01 - Projects/Salud/Nutrition Guide From claudi.md",
-    "01 - Projects/Salud/Linfocitos - Lista de alimentos.md",
-    "01 - Projects/Negocios e Ideas/Negocios - Parfait.md",
-    "01 - Projects/Negocios e Ideas/Negocios - Desayuno Viveres.md",
-    "01 - Projects/Negocios e Ideas/Negocios - Desayuno Americano.md",
-    "02 - Areas/Lista de cursos.md",
     "01 - Projects/Vestimenta",
     "01 - Projects/Negocios e Ideas",
     "/02 - Areas",
-    "/01 - Projects",
     "07 - Archive/Pasted image 20250708094053.png"
   ]
 }
