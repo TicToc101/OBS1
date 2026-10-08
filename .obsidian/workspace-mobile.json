@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "(TEMPLATE) Daily1"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Daily/2026/10/2026-10-08.md",
+    "06 - Daily/2026-10-08.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -223,8 +229,6 @@
     "Untitled.base",
     "Daily expenses desde 1 sep.md",
     "Clippings/Scrum Master (PSM I) Certification Preparation.md",
-    "Clippings/Scrum Master (PSM I) Certification Preparation 2.md",
-    "Clippings/Scrum Master (PSM I) Certification Preparation 1.md",
     "Clippings",
     "Untitled.canvas",
     "01 - Projects/Vestimenta",
