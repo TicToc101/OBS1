@@ -8,7 +8,7 @@ cssclasses: [daily, {{date:dddd}}]
 
 ### Journal
 #### Morning Brain dump 
-- 
+-  I skipped the brain dump this morning because I was still trying to figure the daily templat out
 - 
 - 
 - 
