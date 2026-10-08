@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e3ffd7a80c6cf7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "fbc91b7a7cb59f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(TEMPLATE) Daily1"
+              "title": "(TEMPLATE) Daily Notes"
             }
           }
         ]
@@ -195,8 +195,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "fbc91b7a7cb59f49",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "06 - Daily/2026/10/2026-10-08.md",
     "06 - Daily/2026-10-08.md",
     "Untitled 3.md",
@@ -212,7 +215,6 @@
     "06 - Daily/2026/10/2026-10-05.md",
     "06 - Daily/2026/10/05.md",
     "99 - Meta/00 - Templates/Zettelkasten Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "06 - Daily/2026/Daily notes.md",
     "00 - Map of Concepts/Notes Database.base",
     "06 - Daily/2026/10/2026-10-04.md",
@@ -227,8 +229,6 @@
     "/03 - Resources/Project Management Courses",
     "/03 - Resources",
     "Untitled.base",
-    "Daily expenses desde 1 sep.md",
-    "Clippings/Scrum Master (PSM I) Certification Preparation.md",
     "Clippings",
     "Untitled.canvas",
     "01 - Projects/Vestimenta",

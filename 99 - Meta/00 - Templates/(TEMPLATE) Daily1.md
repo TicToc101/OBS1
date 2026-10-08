@@ -8,13 +8,7 @@ cssclasses: [daily, {{date:dddd}}]
 
 ### Journal
 #### Morning Brain dump 
--  I skipped the brain dump this morning because I was still trying to figure the daily templat out
-- 
-- 
-- 
-- 
-#### Reflexion of the day(EOD)
-- 
+-  
 - 
 - 
 
@@ -35,13 +29,6 @@ cssclasses: [daily, {{date:dddd}}]
 -
 -
 
-### Tasks For Tomorrow
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
-#Daily #DailyNotes 
+#DailyNotes 
