@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e3ffd7a80c6cf7a1",
+        "id": "afd286d017d55fae",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc91b7a7cb59f49",
+            "id": "f2cf113b319e3894",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
+                "file": "06 - Daily/2026/10/2026-10-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "(TEMPLATE) Daily Notes"
+              "title": "2026-10-08"
             }
           }
         ]
@@ -195,12 +195,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbc91b7a7cb59f49",
+  "active": "f2cf113b319e3894",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "06 - Daily/2026/10/2026-10-08.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "06 - Daily/2026-10-08.md",
     "Untitled 3.md",
     "Untitled 2.md",
