@@ -82,6 +82,9 @@
     },
     "switcher:Open quick switcher": {
       "icon": "🔎"
+    },
+    "templates:Insert template": {
+      "icon": "📦"
     }
   },
   "fileRules": [],
