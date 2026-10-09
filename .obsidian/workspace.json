@@ -11,10 +11,24 @@
             "id": "0a95b4c31d5aaeef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": true,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(TEMPLATE) Unique"
             }
           }
         ]
@@ -208,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Unique.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -241,6 +257,7 @@
   },
   "active": "0a95b4c31d5aaeef",
   "lastOpenFiles": [
+    "05 - Fleeting/Thursday 8th, October, 2026.md",
     "06 - Daily/Oct2026/20261008.md",
     "06 - Daily/Oct2026",
     "Untitled.base",
