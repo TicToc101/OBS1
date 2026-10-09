@@ -1,10 +1,7 @@
 ---
 date: 2026-07-29T01:21
-tags:
-  - DailyNotes
-cssclasses:
-  - daily
-  - Wednesday
+tags: [Daily]
+cssclasses: [daily, Wednesday]
 ---
 # DAILY NOTE
 ### *Wednesday, July 29th, 2026*
@@ -35,4 +32,4 @@ Hoy hice unos cálculos
 
 
 
- #DailyNotes 
+#Daily #DailyNotes 

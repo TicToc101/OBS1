@@ -11,18 +11,11 @@
       "query": "tag:#DailyNotes  ",
       "color": {
         "a": 1,
-        "rgb": 14864669
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
+        "rgb": 1674726
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.04320746527778,
@@ -32,6 +25,6 @@
   "repelStrength": 6.15972222222222,
   "linkStrength": 0.452647569444444,
   "linkDistance": 176,
-  "scale": 0.31355265156661805,
+  "scale": 0.514104693144986,
   "close": true
 }

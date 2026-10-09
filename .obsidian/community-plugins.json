@@ -1,11 +1,11 @@
 [
   "obsidian-style-settings",
+  "templater-obsidian",
   "calendar",
   "dataview",
   "obsidian-git",
   "colored-text",
   "obsidian-excalidraw-plugin",
   "iconic",
-  "homepage",
-  "templater-obsidian"
+  "homepage"
 ]

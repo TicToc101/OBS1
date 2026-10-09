@@ -1,10 +1,7 @@
 ---
 date: 2026-07-17T08:01
-tags:
-  - DailyNotes
-cssclasses:
-  - daily
-  - Friday
+tags: [Daily]
+cssclasses: [daily, Friday]
 ---
 # DAILY NOTE
 ### *Friday, July 17th, 2026*

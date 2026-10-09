@@ -1,18 +1,17 @@
 ---
-date: 2026-10-04T15:07
+date: 2026-10-06T08:17
 tags: [Daily]
-cssclasses: [daily, Sunday]
+cssclasses: [daily, Tuesday]
 ---
 # DAILY NOTE
-### *Sunday, October 4th, 2026*
+### *Tuesday, October 6th, 2026*
 
 ### Journal
 #### TIME
-- So I have to make modifications to this daily note and find ways to improve it.
+- 
 - 
 #### Today(BOD)
-- So today I was able to fix 2 problems that I have with my obnsidian vault
-- I fix the setting issues which used to break setting and appearances, every time that I sync a note it broke it
+- 
 - 
 - 
 #### Reflexion of the day(EOD)

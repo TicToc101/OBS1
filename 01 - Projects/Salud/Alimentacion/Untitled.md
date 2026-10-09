@@ -1,10 +1,7 @@
 ---
 date: 2026-07-25T09:48
-tags:
-  - DailyNotes
-cssclasses:
-  - daily
-  - Saturday
+tags: [Daily]
+cssclasses: [daily, Saturday]
 ---
 # DAILY NOTE
 ### *Saturday, July 25th, 2026*
@@ -42,4 +39,4 @@ To be continued later
 
 
 
- #DailyNotes 
+#Daily #DailyNotes 
