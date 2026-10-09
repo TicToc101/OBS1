@@ -74,14 +74,26 @@
     "daily-notes:Open today's daily note": {
       "icon": "📆"
     },
-    "graph:Open graph view": {
-      "icon": "📊"
-    },
     "homepage:Open homepage": {
       "icon": "🏠"
     },
+    "obsidian-git:Open Git source control": {
+      "icon": "🎁"
+    },
+    "random-note:Open random note": {
+      "icon": "🤷‍♂️"
+    },
     "switcher:Open quick switcher": {
       "icon": "🔎"
+    },
+    "templater-obsidian:Templater": {
+      "icon": "lucide-boxes"
+    },
+    "templates:Insert template": {
+      "icon": "📦"
+    },
+    "zk-prefixer:Create new unique note": {
+      "icon": "💎"
     }
   },
   "fileRules": [],
