@@ -7,15 +7,8 @@ cssclasses: [daily, {{date:dddd}}]
 ### *{{date:dddd, MMMM Do, YYYY}}*
 
 ### Journal
-#### TIME
-- 
-- 
-#### Today(BOD)
-- 
-- 
-- 
-#### Reflexion of the day(EOD)
-- 
+#### Morning Brain dump 
+-  
 - 
 - 
 
@@ -36,13 +29,6 @@ cssclasses: [daily, {{date:dddd}}]
 -
 -
 
-### Tasks For Tomorrow
-
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 
-#Daily #DailyNotes 
+#DailyNotes 
