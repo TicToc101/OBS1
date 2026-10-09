@@ -15,13 +15,34 @@
               "state": {
                 "file": "06 - Daily/20261008.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "20261008"
             }
+          },
+          {
+            "id": "a0a868bd49a0ee65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,9 +233,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "06 - Daily/20261008.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -230,25 +249,26 @@
   "left-ribbon": {
     "hiddenItems": {
       "homepage:Open homepage": false,
-      "command-palette:Open command palette": false,
       "daily-notes:Open today's daily note": false,
-      "switcher:Open quick switcher": false,
+      "zk-prefixer:Create new unique note": false,
+      "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
       "templates:Insert template": false,
-      "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "iconic:Open rulebook": false,
       "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false
     }
   },
-  "active": "b0a98d2144aedde7",
+  "active": "a0a868bd49a0ee65",
   "lastOpenFiles": [
-    "06 - Daily/July 2025/20250715.md",
     "06 - Daily/20261008.md",
+    "Untitled.base",
+    "06 - Daily/July 2025/20250715.md",
     "06 - Daily/July 2025/20250708.md",
     "06 - Daily/July 2025/20250705.md",
     "06 - Daily/July 2025/20250725.md",
@@ -272,7 +292,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "06 - Daily/2026/05/2026-05-25.md",
-    "06 - Daily/2026/08/2026-08-06.md",
     "00 - Map of Concepts/Notes Database.base",
     "Excalidraw",
     "06 - Daily/2026/10",
@@ -283,7 +302,6 @@
     "Untitled",
     "01 - Projects/Negocios e Ideas",
     "06 - Daily/2026/08",
-    "07 - Archive/Pasted image 20250708094053.png",
-    "01 - Projects/Salud"
+    "07 - Archive/Pasted image 20250708094053.png"
   ]
 }
