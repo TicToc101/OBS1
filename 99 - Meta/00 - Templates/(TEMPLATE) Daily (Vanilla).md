@@ -4,7 +4,7 @@ tags: [Daily]
 cssclasses: [daily, {{date:dddd}}]
 ---
 # DAILY NOTE
-### *{{date:dddd, MMMM Do, YYYY}}*
+### <% tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD") %>
 
 ## Journal
 ...

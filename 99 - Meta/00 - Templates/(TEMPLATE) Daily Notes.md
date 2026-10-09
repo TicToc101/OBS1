@@ -19,7 +19,6 @@ cssclasses:
 - 
 - 
 
-
 ***
 ### Tasks For the Day
 
@@ -28,17 +27,11 @@ cssclasses:
 - [ ] 
 - [ ] 
 - [ ] 
-
-
 #### Evening Brain Dump 
 - 
-- 
-- 
+
 #### Links To Other Notes and Content
 
 -
--
--
-
 
 #DailyNotes 
