@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nota de prueba.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nota de prueba"
+              "title": "(TEMPLATE) Daily (Vanilla)"
+            }
+          },
+          {
+            "id": "2b8096998a5c9beb",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,9 +233,7 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {
-                "file": "Nota de prueba.md"
-              },
+              "state": {},
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -255,13 +264,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "be9b6de17da9891f",
+  "active": "2b8096998a5c9beb",
   "lastOpenFiles": [
-    "202610082335.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Nota de prueba.md",
+    "202610082335.md",
     "202610082334.md",
     "202610082333.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
