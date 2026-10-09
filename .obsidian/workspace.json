@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202401211512 Notebook CSS Classes"
             }
           }
         ]
@@ -231,15 +235,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "06 - Daily/2026-10-05.md",
-    "06 - Daily/2026/10/2026-10-05.md",
+    "99 - Meta/00 - Templates/Flash card template.md",
+    "99 - Meta/00 - Templates/Cornell Notes Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily Notes.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
-    "99 - Meta/00 - Templates/Flash card template.md",
-    "99 - Meta/00 - Templates/Cornell Notes Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Unique.md",
+    "06 - Daily/2026/10/2026-10-08.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "06 - Daily/2026-10-06.md",
+    "06 - Daily/2026-10-05.md",
+    "06 - Daily/2026/10/2026-10-05.md",
     "06 - Daily/2026/10/05.md",
     "Untitled.md",
     "cornell notes - 202610051036.md",
@@ -253,11 +262,6 @@
     "Friday 9th, October, 2026.md",
     "00 - Map of Concepts/Notes Database.base",
     "202610051009 Dia 3 Estudiando Redes.md",
-    "202610051008 Untitled 1.md",
-    "2026 10 05 1028 test note.md",
-    "202610051003.md",
-    "2026_10_05_1019 Nota de prueba.md",
-    "Thursday 8th, October, 2026.md",
     "Excalidraw",
     "06 - Daily/2026/10",
     "test.gitignore",
