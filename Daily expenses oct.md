@@ -16,12 +16,18 @@ Day 5
 
 
 Day 6
-
+Uber Dylan
 
 day 7
+Uber Dylan
 
 Day 8
+Uber Dylan
 
 Day 9
+100 peaje
+100 peaje
+100 germania
+Uber Dylan
 
 Day 10
