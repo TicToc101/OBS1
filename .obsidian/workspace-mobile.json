@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "45d84ab88e09fe7b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Daily expenses oct.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Daily expenses oct"
             }
           }
         ]
@@ -181,7 +185,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "45d84ab88e09fe7b",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily expenses oct.md",
