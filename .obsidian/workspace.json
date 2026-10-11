@@ -196,8 +196,8 @@
             "state": {
               "type": "git-history-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-history-view"
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -243,7 +243,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -267,7 +267,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b8096998a5c9beb",
+  "active": "e8f5b022cc263017",
   "lastOpenFiles": [
     "Daily expenses oct.md",
     "06 - Daily/Oct2026/20261011.md",
