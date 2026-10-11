@@ -6,6 +6,6 @@
   "obsidian-excalidraw-plugin",
   "iconic",
   "homepage",
-  "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]

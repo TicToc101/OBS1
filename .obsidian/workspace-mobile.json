@@ -177,19 +177,9 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
-      },
-      {
-        "id": "e87c528e109d7415",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +202,8 @@
   },
   "active": "fd941f4d6daf1f5b",
   "lastOpenFiles": [
+    "06 - Daily/2026/10/2026-10-11.md",
+    "06 - Daily/Oct2026/2026-10-11.md",
     "Daily expenses oct.md",
     "06 - Daily/Oct2026/2026-10-05.md",
     "06 - Daily/Oct2026/20261011.md",
@@ -237,8 +229,6 @@
     "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
     "06 - Daily/2026/20250920.md",
     "06 - Daily/2026/10/2026-10-05.md",
-    "06 - Daily/2026/10/05.md",
-    "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "00 - Map of Concepts/Notes Database.base",
     "Excalidraw",
     "06 - Daily/2026/10",
