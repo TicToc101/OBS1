@@ -54,33 +54,9 @@
               "icon": "lucide-file",
               "title": "20261011"
             }
-          },
-          {
-            "id": "4fd84da04d5cab19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cba860d41b114b91",
@@ -273,7 +248,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "06 - Daily/Oct2026/20261011.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -305,10 +280,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "4fd84da04d5cab19",
+  "active": "2b8096998a5c9beb",
   "lastOpenFiles": [
-    "06 - Daily/Oct2026/20261011.md",
     "conflict-files-obsidian-git.md",
+    "06 - Daily/Oct2026/20261011.md",
     "Untitled.md",
     "Untitled 3.md",
     "Untitled 2.md",
