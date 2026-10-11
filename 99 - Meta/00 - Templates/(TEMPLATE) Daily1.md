@@ -4,16 +4,14 @@ tags: [Daily]
 cssclasses: [daily, {{date:dddd}}]
 ---
 # DAILY NOTE
-## <%tp.date.now("dddd, MMMM Do, YYYY", 0, tp.file.title, "YYYYMMDD")%>
-***
+### *{{date:dddd, MMMM Do, YYYY}}*
+
 ### Journal
-#### Morning Brain Dump
+#### Morning Brain dump 
+-  
 - 
 - 
-#### Today
-- 
-- 
-- 
+
 ***
 ### Tasks For the Day
 
@@ -22,9 +20,15 @@ cssclasses: [daily, {{date:dddd}}]
 - [ ] 
 - [ ] 
 - [ ] 
-#### Evening Brain Dump 
-- 
 
-#### Links To Other Notes and Content
+
+
+### Links To Other Notes and Content
 
 -
+-
+-
+
+
+
+#DailyNotes 

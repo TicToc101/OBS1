@@ -1,10 +1,7 @@
 ---
 date: 2026-07-24T14:33
-tags:
-  - DailyNotes
-cssclasses:
-  - daily
-  - Friday
+tags: [Daily]
+cssclasses: [daily, Friday]
 ---
 # DAILY NOTE
 ### *Friday, July 24th, 2026*
@@ -32,4 +29,4 @@ I realized that I have too much to do to be focus on something that won't add an
 
 
 
- #DailyNotes 
+#Daily #DailyNotes 

@@ -1,8 +1,6 @@
 ---
 date: {{date}}T{{time}}
-tags:
-  - Unique
-  - NotaRapida
+tags: [NotaRapida]
 topic:  
 ---
 

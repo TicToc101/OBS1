@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "20261011"
             }
+          },
+          {
+            "id": "4fd84da04d5cab19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +273,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "06 - Daily/Oct2026/20261011.md"
+                "file": "conflict-files-obsidian-git.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -281,10 +305,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b8096998a5c9beb",
+  "active": "4fd84da04d5cab19",
   "lastOpenFiles": [
-    "06 - Daily/Oct2026/20261008.md",
     "06 - Daily/Oct2026/20261011.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "06 - Daily/2026/10/2026-10-09.md",
+    "06 - Daily/2026/10/2026-10-08.md",
+    "06 - Daily/2026-10-06.md",
+    "06 - Daily/2026-10-05.md",
+    "06 - Daily/Oct2026/20261008.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Nota de prueba.md",
     "202610082335.md",
@@ -300,15 +333,6 @@
     "00 - Map of Concepts/Tag List.md",
     "01 - Projects/Salud/Alimentacion/Nueva nota.md",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
-    "06 - Daily/2026/Daily notes.md",
-    "01 - Projects/Salud/Alimentacion/Dail.md",
-    "06 - Daily/August 2025/20250819.md",
-    "06 - Daily/2026/20250924.md",
-    "06 - Daily/August 2025/20250818.md",
-    "06 - Daily/July 2025/20250719.md",
-    "06 - Daily/July 2025/20250722.md",
-    "06 - Daily/July 2025/20250716.md",
-    "06 - Daily/July 2025/20250715.md",
     "06 - Daily/Oct2026",
     "Untitled.base",
     "00 - Map of Concepts/Notes Database.base",
