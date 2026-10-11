@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily expenses oct1.md",
+                "file": "Daily expenses oct.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily expenses oct1"
+              "title": "Daily expenses oct"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily expenses oct1.md"
+                "file": "Daily expenses oct.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Daily expenses oct1"
+              "title": "File properties for Daily expenses oct"
             }
           },
           {
@@ -240,8 +240,8 @@
   },
   "active": "ee70bba27b69bad4",
   "lastOpenFiles": [
-    "Daily expenses oct.md",
     "Daily expenses oct1.md",
+    "Daily expenses oct.md",
     "Sunday 11th, October, 2026.md",
     "06 - Daily/Oct2026/20261011.md",
     "06 - Daily/Oct2026/2026-10-11.md",
