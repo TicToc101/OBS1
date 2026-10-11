@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "20260725"
             }
+          },
+          {
+            "id": "502e362cb37e1fc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/202507080938 - Wildlands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202507080938 - Wildlands"
+            }
+          },
+          {
+            "id": "aae51e7292f2e651",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Journal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +99,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,34 +250,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6295db7a6b1cbeef",
+  "active": "aae51e7292f2e651",
   "lastOpenFiles": [
-    "06 - Daily/August 2025/20250819.md",
-    "06 - Daily/2026/Daily notes.md",
-    "06 - Daily/August 2025/20250809.md",
-    "06 - Daily/August 2025/20250802.md",
-    "06 - Daily/August 2025/20250801.md",
+    "04 - Permanent/202507080938 - Wildlands.md",
+    "06 - Daily/2026/20250924.md",
+    "06 - Daily/2026/20250920.md",
+    "06 - Daily/August 2025/20250818.md",
+    "06 - Daily/August 2025/20250810.md",
     "06 - Daily/July 2025/20250727.md",
     "06 - Daily/July 2025/20250726.md",
     "06 - Daily/July 2025/20250725.md",
-    "06 - Daily/July 2025/20250724.md",
-    "06 - Daily/July 2025/20250723.md",
-    "06 - Daily/July 2025/20250722.md",
-    "06 - Daily/July 2025/20250721.md",
-    "06 - Daily/July 2025/20250718.md",
-    "06 - Daily/July 2025/20250717.md",
-    "06 - Daily/July 2025/20250708.md",
-    "06 - Daily/July 2025/20250707.md",
-    "06 - Daily/July 2025/20250704.md",
-    "06 - Daily/2026/10/2026-10-08.md",
-    "06 - Daily/2026/10/2026-10-05.md",
-    "06 - Daily/2026/10/2026-10-04.md",
-    "06 - Daily/July 2025/20250720.md",
     "06 - Daily/July 2025/20250719.md",
+    "06 - Daily/July 2025/20250720.md",
     "06 - Daily/July 2025/20250716.md",
-    "06 - Daily/July 2025/20250712.md",
     "06 - Daily/July 2025/20250714.md",
+    "06 - Daily/July 2025/20250715.md",
+    "06 - Daily/July 2025/20250712.md",
     "06 - Daily/July 2025/20250711.md",
+    "06 - Daily/July 2025/20250709.md",
+    "06 - Daily/2026/10/2026-10-10.md",
+    "06 - Daily/July 2025/20250706.md",
+    "06 - Daily/July 2025/20250705.md",
+    "06 - Daily/2026/10/2026-10-11.md",
+    "06 - Daily/Oct2026/2026-10-11.md",
+    "06 - Daily/2026/10/2026-10-09.md",
+    "06 - Daily/Oct2026/2026-10-06.md",
+    "06 - Daily/Oct2026/2026-10-05.md",
+    "01 - Projects/Salud/Alimentacion/20260725.md",
+    "06 - Daily/August 2025/20250819.md",
     "06 - Daily/Oct2026/2026/10",
     "06 - Daily/Oct2026/2026",
     "Untitled.base",
