@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/Oct2026/20261008.md",
+                "file": "06 - Daily/Oct2026/20261011.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "20261008"
+              "title": "20261011"
             }
           }
         ],
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cba860d41b114b91",
@@ -248,7 +249,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "06 - Daily/Oct2026/20261008.md"
+                "file": "06 - Daily/Oct2026/20261011.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -282,6 +283,8 @@
   },
   "active": "2b8096998a5c9beb",
   "lastOpenFiles": [
+    "06 - Daily/Oct2026/20261008.md",
+    "06 - Daily/Oct2026/20261011.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "Nota de prueba.md",
     "202610082335.md",
@@ -295,7 +298,6 @@
     "202610082329.md",
     "202610082330.md",
     "00 - Map of Concepts/Tag List.md",
-    "06 - Daily/Oct2026/20261008.md",
     "01 - Projects/Salud/Alimentacion/Nueva nota.md",
     "05 - Fleeting/202508101406 - Review this note later on today.md",
     "06 - Daily/2026/Daily notes.md",
@@ -307,7 +309,6 @@
     "06 - Daily/July 2025/20250722.md",
     "06 - Daily/July 2025/20250716.md",
     "06 - Daily/July 2025/20250715.md",
-    "06 - Daily/2026/10/2026-10-05.md",
     "06 - Daily/Oct2026",
     "Untitled.base",
     "00 - Map of Concepts/Notes Database.base",
