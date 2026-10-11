@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "58010200ab8599b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,10 +214,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec310885033f8cd5",
+  "active": "58010200ab8599b0",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "Untitled 1.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
     "Buscar esta información.md",
     "05 - Fleeting/buscar esta info.md",
     "01 - Projects/Salud/Alimentacion/20260725.md",
@@ -226,7 +241,6 @@
     "06 - Daily/2026/10/2026-10-08.md",
     "06 - Daily/2026-10-08.md",
     "Untitled 3.md",
-    "Untitled 1.md",
     "06 - Daily/2026-10-06.md",
     "00 - Map of Concepts/Notes Database.base",
     "Excalidraw",
