@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "45d84ab88e09fe7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily expenses oct.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Daily expenses oct"
@@ -162,19 +162,9 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
-      },
-      {
-        "id": "e87c528e109d7415",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +185,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "45d84ab88e09fe7b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Daily expenses oct.md",
+    "06 - Daily/2026/10/2026-10-11.md",
+    "06 - Daily/Oct2026/2026-10-11.md",
     "06 - Daily/Oct2026/2026-10-05.md",
     "06 - Daily/Oct2026/20261011.md",
     "06 - Daily/Oct2026/2026-10-06.md",
     "06 - Daily/Oct2026",
     "06 - Daily/2026/10/2026-10-10.md",
-    "Daily expenses oct.md",
     "04 - Permanent/202507080938 - Wildlands.md",
     "06 - Daily/2026/05/2026-05-25.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Daily1.md",
@@ -221,9 +214,6 @@
     "06 - Daily/July 2025/20250704.md",
     "99 - Meta/00 - Templates/Zettelkasten Note Template 2.md",
     "06 - Daily/2026/20250920.md",
-    "06 - Daily/2026/10/2026-10-05.md",
-    "06 - Daily/2026/10/05.md",
-    "99 - Meta/00 - Templates/Zettelkasten Template.md",
     "00 - Map of Concepts/Notes Database.base",
     "Excalidraw",
     "06 - Daily/2026/10",
