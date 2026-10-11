@@ -35,14 +35,24 @@
             "id": "2b8096998a5c9beb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Daily expenses oct.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Daily expenses oct"
             }
           }
         ],
@@ -237,7 +247,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Daily expenses oct.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -267,8 +279,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8f5b022cc263017",
+  "active": "2b8096998a5c9beb",
   "lastOpenFiles": [
+    "Daily expenses desde 1 sep.md",
+    "Daily Expenses v2.md",
     "Daily expenses oct.md",
     "06 - Daily/Oct2026/20261011.md",
     "Untitled.md",
@@ -293,8 +307,6 @@
     "202610082331.md",
     "202610082329.md",
     "202610082330.md",
-    "00 - Map of Concepts/Tag List.md",
-    "01 - Projects/Salud/Alimentacion/Nueva nota.md",
     "06 - Daily/Oct2026",
     "Untitled.base",
     "00 - Map of Concepts/Notes Database.base",
