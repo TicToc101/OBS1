@@ -11,15 +11,14 @@
             "id": "6adcf455d66ea222",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".trash/20261018 3.md",
-                "bFile": ".trash/20261018 3.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "06 - Daily/Oct2026/20261018.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: 20261018 3"
+              "icon": "lucide-file",
+              "title": "20261018"
             }
           }
         ]
@@ -196,12 +195,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3e6fa3a9ec95c838",
+  "active": "8bce005013110040",
   "lastOpenFiles": [
+    "06 - Daily/Oct2026/20261018.md",
     "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "Daily expenses desde 1 sep.md",
     "Buscar esta información.md",
-    "06 - Daily/Oct2026/20261018.md",
     "Untitled 3.md",
     "Untitled 1.md",
     "Untitled 2.md",
