@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buscar esta información.md",
+                "file": "06 - Daily/Oct2026/20261018.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buscar esta información"
-            }
-          },
-          {
-            "id": "ec310885033f8cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "58010200ab8599b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "926c12c5316ad82f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "76d1cc60ecd3cc87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "20261018"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +185,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "76d1cc60ecd3cc87",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Daily/Oct2026/20261018.md",
     "Untitled 3.md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -270,7 +214,6 @@
     "99 - Meta/00 - Templates/(TEMPLATE) Daily (Vanilla).md",
     "06 - Daily/2026/10/2026-10-08.md",
     "06 - Daily/2026-10-08.md",
-    "06 - Daily/2026-10-06.md",
     "00 - Map of Concepts/Notes Database.base",
     "Excalidraw",
     "06 - Daily/2026/10",
