@@ -49,7 +49,7 @@ Uber Dylan
 
 Day 16
 100 peaje
-95 uber
+95 uber dylan
 120 Uber dylan
 
 Day 17
