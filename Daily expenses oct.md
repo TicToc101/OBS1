@@ -16,6 +16,8 @@ Day 5
 
 
 Day 6
+250 hotdog
+35 refresco
 Uber Dylan
 
 day 7
@@ -38,10 +40,13 @@ Yenni me dio 1500
 Day 11
 
 Day 12
+1950 frenos
+100 peaje
 
 Day 13
 
 Day 14
+204 aprezio
 Uber dylan
 
 Day 15
