@@ -58,6 +58,7 @@ Day 17
 Day 18
 2065 gas
 857 aprezio
+60 azucar
 
 
 Day 19
