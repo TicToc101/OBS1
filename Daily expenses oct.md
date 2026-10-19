@@ -40,9 +40,25 @@ Day 11
 Day 12
 
 Day 13
-Will this work now
+
+Day 14
+Uber dylan
+
+Day 15
+Uber Dylan
+
+Day 16
+100 peaje
+95 uber
+120 Uber dylan
+
+Day 17
+520 bravo
+
+Day 18
+2065 gas
+857 aprezio
 
 
-perfect it is up and running again
-
-Yes it is
+Day 19
+100 peaje
