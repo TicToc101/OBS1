@@ -68,3 +68,7 @@ Day 18
 
 Day 19
 100 peaje
+100 peaje
+65 merienda 
+833 bravo
+4635 edesur 
