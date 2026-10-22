@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"661254f67dd13f07","x":-280,"y":-220,"width":250,"height":60,"type":"text","text":",elg;ldskfdls;ewdk"},
+		{"id":"a2dcb1e8cd5b077d","x":-780,"y":-440,"width":400,"height":400,"type":"file","file":"Esta nota esta.md"},
+		{"id":"af3c5650e85db573","x":-505,"y":0,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"60bb7c34b8bf7fee","fromNode":"661254f67dd13f07","fromSide":"left","toNode":"a2dcb1e8cd5b077d","toSide":"right"},
+		{"id":"239cc4bda0316f63","fromNode":"a2dcb1e8cd5b077d","fromSide":"bottom","toNode":"af3c5650e85db573","toSide":"left"}
+	]
+}

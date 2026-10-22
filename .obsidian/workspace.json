@@ -20,8 +20,26 @@
               "icon": "lucide-file",
               "title": "Daily expenses oct"
             }
+          },
+          {
+            "id": "ab36c68d7a08e73e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Excalidraw/Untitled.canvas",
+                "viewState": {
+                  "x": -405,
+                  "y": -190,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +242,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ab36c68d7a08e73e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
+    "Esta nota esta.md",
+    "Excalidraw/Untitled.canvas",
     "Daily expenses oct.md",
+    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "Clippings/Edube Interactive  Digital Literacy – Create, Communicate and Collaborate.md",
     "Clippings/About The Courses.md",
-    "Untitled.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
@@ -251,7 +270,6 @@
     "06 - Daily/July 2025/20250720.md",
     "06 - Daily/July 2025/20250716.md",
     "06 - Daily/July 2025/20250714.md",
-    "06 - Daily/July 2025/20250715.md",
     "06 - Daily/Oct2026/2026/10",
     "06 - Daily/Oct2026/2026",
     "Untitled.base",
