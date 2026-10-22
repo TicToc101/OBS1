@@ -11,35 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily expenses oct.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily expenses oct"
-            }
-          },
-          {
-            "id": "ab36c68d7a08e73e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Excalidraw/Untitled.canvas",
-                "viewState": {
-                  "x": -405,
-                  "y": -190,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,70 +216,21 @@
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "5401ac61513db999",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ec2fac80048f4b9d",
-        "type": "window",
-        "children": [
-          {
-            "id": "cc185e072f1315d3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f214ad6bf2755b39",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://community.sketch-your-mind.com/t/welcome-to-excalidraw-essentials/722",
-                    "title": "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind"
-                }
-              },
-              {
-                "id": "82f66b4448abca10",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 2560,
-        "height": 1440,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f214ad6bf2755b39",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind.md",
+    "06 - Daily/Oct2026/20261022.md",
+    "Clippings/Edube Interactive  Python Essentials 1 1.md",
+    "Clippings/Edube Interactive  Python Essentials 1.md",
+    "Clippings/C Essentials 1 Course.md",
     "Excalidraw/Untitled.canvas",
-    "Esta nota esta.md",
     "Daily expenses oct.md",
+    "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind.md",
+    "Esta nota esta.md",
     "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "Clippings/Edube Interactive  Digital Literacy – Create, Communicate and Collaborate.md",
     "Clippings/About The Courses.md",
@@ -321,10 +250,6 @@
     "06 - Daily/July 2025/20250727.md",
     "06 - Daily/July 2025/20250726.md",
     "06 - Daily/July 2025/20250725.md",
-    "06 - Daily/July 2025/20250719.md",
-    "06 - Daily/July 2025/20250720.md",
-    "06 - Daily/July 2025/20250716.md",
-    "06 - Daily/July 2025/20250714.md",
     "06 - Daily/Oct2026/2026/10",
     "06 - Daily/Oct2026/2026",
     "Untitled.base",
