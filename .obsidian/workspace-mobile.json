@@ -11,10 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -158,9 +158,19 @@
           "icon": "calendar-with-checkmark",
           "title": "Calendar"
         }
+      },
+      {
+        "id": "56cb68c7924faa05",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +191,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8bce005013110040",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "06 - Daily/Oct2026/20261023.md",
     "Daily expenses oct.md",
     "06 - Daily/Oct2026/20261018.md",
-    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "Daily expenses desde 1 sep.md",
     "Buscar esta información.md",
     "Untitled 3.md",
