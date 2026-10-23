@@ -3,9 +3,9 @@
   "calendar",
   "dataview",
   "colored-text",
-  "obsidian-excalidraw-plugin",
   "iconic",
   "homepage",
-  "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
