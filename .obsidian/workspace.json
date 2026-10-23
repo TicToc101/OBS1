@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Oct2026/20261022.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20261022"
             }
           }
         ]
@@ -216,18 +220,28 @@
       "random-note:Open random note": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6295db7a6b1cbeef",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.md",
+    "06 - Daily/Oct2026/20261022.md",
+    "Clippings/Edube Interactive  Python Essentials 1 1.md",
+    "Clippings/Edube Interactive  Python Essentials 1.md",
+    "Clippings/C Essentials 1 Course.md",
+    "Excalidraw/Untitled.canvas",
+    "Daily expenses oct.md",
+    "Welcome to Excalidraw Essentials - Learn to Think Visually - Sketch Your Mind.md",
+    "Esta nota esta.md",
+    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
+    "Clippings/Edube Interactive  Digital Literacy – Create, Communicate and Collaborate.md",
     "Clippings/About The Courses.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "06 - Daily/Oct2026/20261018.md",
-    "Excalidraw/Drawing 2026-10-18 18.48.12.excalidraw.md",
     "06 - Daily/Oct2026/20261011.md",
     "Buscar esta información.md",
     "untitle 4.md",
@@ -240,13 +254,6 @@
     "06 - Daily/July 2025/20250727.md",
     "06 - Daily/July 2025/20250726.md",
     "06 - Daily/July 2025/20250725.md",
-    "06 - Daily/July 2025/20250719.md",
-    "06 - Daily/July 2025/20250720.md",
-    "06 - Daily/July 2025/20250716.md",
-    "06 - Daily/July 2025/20250714.md",
-    "06 - Daily/July 2025/20250715.md",
-    "06 - Daily/July 2025/20250712.md",
-    "06 - Daily/July 2025/20250711.md",
     "06 - Daily/Oct2026/2026/10",
     "06 - Daily/Oct2026/2026",
     "Untitled.base",

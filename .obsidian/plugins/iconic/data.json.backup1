@@ -68,6 +68,9 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {
+    "canvas:Create new canvas": {
+      "icon": "🖼️"
+    },
     "command-palette:Open command palette": {
       "icon": "💻"
     },
