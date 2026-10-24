@@ -82,3 +82,12 @@ Day 21
 Uber grey
 Uber dylan
 
+Day 22
+Peaje
+Uber dylan
+Nacional
+
+Day 23
+Cel grey
+100 peaje
+
