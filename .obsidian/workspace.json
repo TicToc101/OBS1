@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/Oct2026/20261024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20261024"
             }
           }
         ]
@@ -223,6 +227,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "06 - Daily/Oct2026/20261024.md",
     "06 - Daily/Oct2026/20261022.md",
     "Clippings/Edube Interactive  Python Essentials 1 1.md",
     "Clippings/Edube Interactive  Python Essentials 1.md",
@@ -249,7 +254,6 @@
     "06 - Daily/August 2025/20250810.md",
     "06 - Daily/July 2025/20250727.md",
     "06 - Daily/July 2025/20250726.md",
-    "06 - Daily/July 2025/20250725.md",
     "06 - Daily/Oct2026/2026/10",
     "06 - Daily/Oct2026/2026",
     "Untitled.base",
